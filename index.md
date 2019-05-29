@@ -9,8 +9,9 @@ partners:
 services: []
 sub_heading: 'The NameExoWorlds contest provided the first opportunity for the public
   to name exoplanets, and their stars.  '
-textline: Official website from the International Astronomical Union (IAU) dedicated
-  to Astronomy Outreach in Mauritius.
+textline: Official website from the International Astronomical Union - Office for
+  Astronomy Outreach (IAU-OAO) dedicated to the National Outreach Committee (NOC)
+  in Mauritius.
 hero_button:
   text: Learn more
   href: https://iau-noc-mur.netlify.com/activities/nameexoworlds/
