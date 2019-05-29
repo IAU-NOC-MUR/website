@@ -13,7 +13,7 @@ textline: Official website from the International Astronomical Union (IAU) dedic
   to Astronomy Outreach in Mauritius.
 hero_button:
   text: Learn more
-  href: https://iau-noc-mur-demo.netlify.com/activities/nameexoworlds/
+  href: https://iau-noc-mur.netlify.com/activities/nameexoworlds/
 show_news: true
 show_staff: false
 menu:
