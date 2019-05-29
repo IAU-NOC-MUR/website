@@ -35,3 +35,5 @@ fields:
   type: text
   hidden: true
   default: person
+pages:
+- _people/nadeem-oozeer.md
