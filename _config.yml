@@ -34,6 +34,5 @@ gems:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
-  
-  exclude: ["CNAME", "README.md"]
+exclude: ["CNAME", "README.md"]
 
