@@ -1,0 +1,38 @@
+---
+label: project
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- name: sub_heading
+  label: Sub Heading
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: banner_image
+  label: Banner Image
+  type: file
+  description: Dimensions work best at 1200 pixels by 400 pixels
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
