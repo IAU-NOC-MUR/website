@@ -1,5 +1,5 @@
 ---
-title: MVijay Prakash Chumroo
+title: Vijay Prakash Chumroo (Suraj)
 date: '2017-11-14T11:08:34.000+00:00'
 role:
 - advisor
