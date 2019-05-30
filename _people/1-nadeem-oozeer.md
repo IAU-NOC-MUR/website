@@ -4,7 +4,7 @@ role:
 layout: person
 title: Nadeem Oozeer
 sub_heading: IAU NOC for Mauritius
-thumbnail: "/uploads/2019/05/29/placeholder-square.jpg"
+thumbnail: "/uploads/2019/05/30/Biography P1160189.jpg"
 email: ''
 linkedin: ''
 
