@@ -35,6 +35,16 @@ fields:
   type: text
   hidden: true
   default: person
+- name: order
+  type: number
+  label: Order
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - _people/1-nadeem-oozeer.md
 - _people/arwin-neil-baichoo.md
