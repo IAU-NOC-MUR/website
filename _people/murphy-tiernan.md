@@ -5,7 +5,7 @@ role:
 - advisor
 - staff
 thumbnail: "/uploads/2019/05/29/farheen-1.jpg"
-sub_heading: ''
+sub_heading: Member
 email: ''
 linkedin: ''
 layout: person
