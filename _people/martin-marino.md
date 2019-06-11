@@ -5,7 +5,7 @@ role:
 - advisor
 - board
 sub_heading: Member
-thumbnail: "/uploads/2019/05/29/placeholder-square.jpg"
+thumbnail: "/uploads/2019/06/11/placeholder-square.jpg"
 email: martin@belkirkcollege.com
 linkedin: ''
 layout: person
