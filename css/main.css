@@ -1085,7 +1085,7 @@ nav ul a {
 
     .mobile-menu{
 
-        display: block;
+        display: inline;
     }
 }
 
