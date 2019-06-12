@@ -26,7 +26,7 @@ Abbé Nicolas Louis de Lacaille was an astronomer who had the great honor of nam
 
 ![The Abbé Nicolas Louis de Lacaille, 1713–62.](/uploads/2019/06/12/Lacaille.png "The Abbé Nicolas Louis de Lacaille, 1713–62.")
 
-<p style=" font-size: 80%;font-family: Verdana, Arial,sans-serif; text-align: center; ">The Abbé Nicolas Louis de Lacaille, 1713–62. Source : https://academic.oup.com/astrogeo/article/43/2/2.25/281196</p>
+<p style=" font-size: 80%;font-family: Verdana, Arial,sans-serif; text-align: center; ">The Abbé Nicolas Louis de Lacaille, 1713–62</p>
 
 Abbé Nicolas Louis de Lacaille finally left on March 8, 1753 aboard the Le Prusieux for exploring two islands in the Indian Ocean, the "Ile de France" (Mauritius) and the "Ile de Bourbon" (Réunion). He arrived at Mauritius in April, where he did surveying, cartographic and geographic work as well as astronomical observations for nine months.
 
