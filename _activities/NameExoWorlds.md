@@ -8,7 +8,7 @@ sub_heading: 'The NameExoWorlds contest provided the first opportunity for the p
 slug: ''
 
 ---
-![](/uploads/2019/06/12/download (2).png)
+![](/uploads/2019/06/12/nameexomur.jpg)
 
 In line with the International Astronomical Union (IAU) 100th anniversary celebration, Mauritians have been invited to name an Exoplanet, [WASP-72 b](https://exoplanets.nasa.gov/exoplanet-catalog/5144/wasp-72-b/), in the constellation of Fornax. WASP-72 b is a gas giant exoplanet that orbits a F-type star. Its mass is 2.3 times that of Jupiter, it takes 2.2 days to complete one orbit of its star. Its discovery was announced in 2012.
 
