@@ -840,7 +840,7 @@ p {
     color: #888
 }
 
-.content.content-narrow img {
+.content img {
     object-fit: cover;
     border-radius: 2px;
     display: block;
@@ -848,7 +848,7 @@ p {
     margin-right: auto;
 }
 
-.content img {
+.activities-card {
     width: 100%;
     height: 100%;
     object-fit: cover;
