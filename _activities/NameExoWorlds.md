@@ -24,4 +24,6 @@ The shortlisted names will be announced in December 2019. A committee has been s
 
 Abbé Nicolas Louis de Lacaille was an astronomer who had the great honor of naming 15 of the 88 constellations in the sky. He spent 1750-1754 studying the stars of the southern hemisphere from the Cape of Good Hope, the southernmost part of Africa. In his years there, he was said to have observed over 10,000 stars using just his 1/2-inch refractor. Fornax was named the Chemical Furnace in honor of Antoine Lavoisier, who was guillotined in the French Revolution in 1794.
 
+![The Abbé Nicolas Louis de Lacaille, 1713–62.](/uploads/2019/06/12/Lacaille.png "The Abbé Nicolas Louis de Lacaille, 1713–62.")
+
 Abbé Nicolas Louis de Lacaille finally left on March 8, 1753 aboard the Le Prusieux for exploring two islands in the Indian Ocean, the "Ile de France" (Mauritius) and the "Ile de Bourbon" (Réunion). He arrived at Mauritius in April, where he did surveying, cartographic and geographic work as well as astronomical observations for nine months.
