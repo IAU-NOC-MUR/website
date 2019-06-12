@@ -8,13 +8,15 @@ sub_heading: 'The NameExoWorlds contest provided the first opportunity for the p
 slug: ''
 
 ---
+![](/uploads/2019/06/12/download (2).png)
+
 In line with the International Astronomical Union (IAU) 100th anniversary celebration, Mauritians have been invited to name an Exoplanet, [WASP-72 b](https://exoplanets.nasa.gov/exoplanet-catalog/5144/wasp-72-b/), in the constellation of Fornax. WASP-72 b is a gas giant exoplanet that orbits a F-type star. Its mass is 2.3 times that of Jupiter, it takes 2.2 days to complete one orbit of its star. Its discovery was announced in 2012.
 
 As part of the IAU's mission to promote and safeguard the science of astronomy through international cooperation, the IAU is the authority responsible for assigning official names to celestial bodies. Now, while celebrating its first 100 years of fostering international collaboration ([IAU100](http://www.iau-100.org/)), the IAU wishes to contribute to the fraternity of all people with a significant token of global identity. Following the first [NameExoWorlds competition](http://www.nameexoworlds.iau.org/first-edition), which [named 19 exoplanets](https://www.iau.org/news/pressreleases/detail/iau1514/) in 2015, the IAU will now, within the framework of the IAU100 NameExoWorlds project, offer every country the chance to name one planetary system, comprising an exoplanet and its host star. Each country’s designated star is visible from that country, and sufficiently bright to be observed through small telescopes.
 
 The IAU encourages all people of Earth to consider themselves “Citizens of the Cosmos”, and set aside borders, wars, and cultural differences for a universal, peaceful view of humanity as just one race, possibly among many cosmic neighbours in the Universe.
 
-“The proposed names should be of things, people, or places of long-standing cultural, historical, or geographical significance, worthy of being assigned to a celestial object” - IAU. More guidelines for the naming can be found from the IAU NameExoworlds website ([http://www.nameexoworlds.iau.org](http://www.nameexoworlds.iau.org "http://www.nameexoworlds.iau.org")/naming-rules).
+“The proposed names should be of things, people, or places of long-standing cultural, historical, or geographical significance, worthy of being assigned to a celestial object” - IAU. More guidelines for the naming can be found from the IAU NameExoworlds website ([http://www.nameexoworlds.iau.org](http://www.nameexoworlds.iau.org/naming-rules "http://www.nameexoworlds.iau.org/naming-rules")).
 
 The shortlisted names will be announced in December 2019. A committee has been set up by the IAU National Outreach Coordinator (IAU-NOC) of Mauritius. The Mauritian team page can been viewed on [https://iau-noc-mur.netlify.com/](https://iau-noc-mur.netlify.com/ "https://iau-noc-mur.netlify.com/") and on all social media platforms.
 
