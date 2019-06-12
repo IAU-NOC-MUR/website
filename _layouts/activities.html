@@ -18,11 +18,11 @@ layout: default
 					{% for project in sorted %}
 					<div class="pure-u-1 pure-u-md-1-3">
 						<div class="card">
-							<div class="card-header activities-card">
+							<div class="card-header">
 							{% if project.banner_image and project.banner_image != "" %}
-							<img src="{{ project.banner_image | absolute_url }}" alt="{{ project.title }}">
+							<img class="activities-card" src="{{ project.banner_image | absolute_url }}" alt="{{ project.title }}">
 							{% else %}
-								<img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ project.title }}">
+								<img class="activities-card" src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ project.title }}">
 							{% endif %}
 							</div>
 							<div class="card-body">
