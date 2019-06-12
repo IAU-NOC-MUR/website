@@ -20,7 +20,7 @@ The IAU encourages all people of Earth to consider themselves “Citizens of the
 
 The shortlisted names will be announced in December 2019. A committee has been set up by the IAU National Outreach Coordinator (IAU-NOC) of Mauritius. The Mauritian team page can been viewed on [https://iau-noc-mur.netlify.com/](https://iau-noc-mur.netlify.com/ "https://iau-noc-mur.netlify.com/") and on all social media platforms.
 
-**Did You know**
+### **Did You know**
 
 Abbé Nicolas Louis de Lacaille was an astronomer who had the great honor of naming 15 of the 88 constellations in the sky. He spent 1750-1754 studying the stars of the southern hemisphere from the Cape of Good Hope, the southernmost part of Africa. In his years there, he was said to have observed over 10,000 stars using just his 1/2-inch refractor. Fornax was named the Chemical Furnace in honor of Antoine Lavoisier, who was guillotined in the French Revolution in 1794.
 
@@ -30,4 +30,4 @@ Abbé Nicolas Louis de Lacaille was an astronomer who had the great honor of nam
 
 Abbé Nicolas Louis de Lacaille finally left on March 8, 1753 aboard the Le Prusieux for exploring two islands in the Indian Ocean, the "Ile de France" (Mauritius) and the "Ile de Bourbon" (Réunion). He arrived at Mauritius in April, where he did surveying, cartographic and geographic work as well as astronomical observations for nine months.
 
-<a href="https://academic.oup.com/astrogeo/article/43/2/2.25/281196" target="_blank" class="pure-button button-success button-xlarge" title="More about Abbé Nicolas Louis de Lacaille">More about Abbé Nicolas Louis de Lacaille &nbsp;<i class="fa fa-chevron-right"></i>
+<a href="https://academic.oup.com/astrogeo/article/43/2/2.25/281196" target="_blank" class="pure-button button-success button-xlarge" title="More about Abbé Nicolas Louis de Lacaille">More about Abbé Nicolas Louis de Lacaille  <i class="fa fa-chevron-right"></i>
