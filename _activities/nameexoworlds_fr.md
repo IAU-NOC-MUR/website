@@ -27,6 +27,6 @@ L’Abbé Nicolas Louis de Lacaille était un astronome qui a eu le grand honneu
 
 ![The Abbé Nicolas Louis de Lacaille, 1713–62.](/uploads/2019/06/12/Lacaille.png "The Abbé Nicolas Louis de Lacaille, 1713–62.")
 
-<p style=" font-size: 80%;font-family: Verdana, Arial,sans-serif; text-align: center; ">The Abbé Nicolas Louis de Lacaille, 1713–62</p>
+<p style=" font-size: 80%;font-family: Verdana, Arial,sans-serif; text-align: center; ">Abbé Nicolas Louis de Lacaille, 1713–62</p>
 
 L’Abbé Nicolas Louis de Lacaille a finalement quitté l’Afrique le 8 mars 1753 à bord du Prusieux pour explorer deux des îles de l'océan Indien, l'Île de France, aujourd’hui l'Île Maurice, et l'Île Bourbon, appelée aujourd’hui l'Île de la Réunion. Il était arrivé à l'Île Maurice en avril, où il a effectué des relevés topographiques, des travaux cartographiques et géographiques ainsi que des observations astronomiques pendant neuf mois.
