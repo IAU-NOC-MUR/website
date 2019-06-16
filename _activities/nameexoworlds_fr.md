@@ -7,7 +7,7 @@ sub_heading: l'Île Maurice honorée pour nommer une exoplanète
 slug: ''
 
 ---
-#### Language : **Français 🇫🇷** | [English 🇬🇧](/activities/nameexoworlds/)
+### Language : **Français 🇫🇷** | [English 🇬🇧](/activities/nameexoworlds/)
 
 ![](/uploads/2019/06/12/nameexomur.jpg)
 
