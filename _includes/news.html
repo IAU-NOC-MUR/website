@@ -18,6 +18,10 @@
                 <ul class="posts">
                     {% assign sorted = (site.activities | sort: 'date') | reverse %}
                     {% for project in sorted limit:3 %}
+
+                    {% if project.title contains '[FR]' %}
+							{% continue %}
+					{% endif %}
                 
                     <li>
                         <a href="{{ project.url | absolute_url }}">{{ project.title }}</a>
