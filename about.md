@@ -13,7 +13,7 @@ show_staff: true
 menu:
   navigation:
     identifier: _about
-    weight: 4
+    weight: 3
   footer:
     identifier: _about
     weight: 3
