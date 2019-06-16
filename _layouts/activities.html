@@ -16,23 +16,26 @@ layout: default
 						{% assign sorted = (site.activities | sort: 'date') | reverse %}
 
 					{% for project in sorted %}
-					<div class="pure-u-1 pure-u-md-1-3">
-						<div class="card">
-							<div class="card-header">
-							{% if project.banner_image and project.banner_image != "" %}
-							<img class="activities-card" src="{{ project.banner_image | absolute_url }}" alt="{{ project.title }}">
-							{% else %}
-								<img class="activities-card" src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ project.title }}">
-							{% endif %}
-							</div>
-							<div class="card-body">
-								<h3><a href="{{ project.url | absolute_url }}">{{ project.title }}</a></h3>
-								<p>{{ project.sub_heading | slice: 0, 80 }}</p>
-								<h3><b>{{ project.date | date: '%B %d, %Y' }}</b></h3>
 
+						{% if project.title contains '[FR]' %}
+							{% continue %}
+						{% endif %}
+
+						<div class="pure-u-1 pure-u-md-1-3">
+							<div class="card">
+								<div class="card-header">
+								{% if project.banner_image and project.banner_image != "" %}
+								<img class="activities-card" src="{{ project.banner_image | absolute_url }}" alt="{{ project.title }}">
+								{% else %}
+									<img class="activities-card" src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ project.title }}">
+								<div class="card-body">
+									<h3><a href="{{ project.url | absolute_url }}">{{ project.title }}</a></h3>
+									<p>{{ project.sub_heading | slice: 0, 80 }}</p>
+									<h3><b>{{ project.date | date: '%B %d, %Y' }}</b></h3>
+
+								</div>
 							</div>
 						</div>
-					</div>
 					{% endfor %}
 				</div>
 			</div>
