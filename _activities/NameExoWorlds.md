@@ -8,7 +8,7 @@ sub_heading: 'The NameExoWorlds contest provided the first opportunity for the p
 slug: ''
 
 ---
-#### Language : **English 🇬🇧** | [Français 🇫🇷](/activities/nameexoworlds_fr)
+### Language : **English 🇬🇧** | [Français 🇫🇷](/activities/nameexoworlds_fr)
 
 ![](/uploads/2019/06/12/nameexomur.jpg)
 
