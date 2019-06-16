@@ -7,6 +7,8 @@ sub_heading: l'Île Maurice honorée pour nommer une exoplanète
 slug: ''
 
 ---
+#### Language : **Français 🇫🇷** | [English 🇬🇧](/activities/nameexoworlds/)
+
 ![](/uploads/2019/06/12/nameexomur.jpg)
 
 Dans le cadre des célébrations du 100ème anniversaire de l’Union Astronomique Internationale (UAI), les mauriciens sont invités à nommer une exoplanète, WASP-72b, qui se trouve dans la constellation de Fornax. WASP-72 b est une exoplanète géante et gazeuse, qui gravite autour d'une étoile de type F. Sa découverte a été annoncée en 2012. Elle pèse 2,3 fois la masse de Jupiter, et il lui faut 2,2 jours pour compléter une orbite autour de son étoile.
@@ -21,7 +23,6 @@ Les noms présélectionnés seront annoncés en Décembre 2019. Un comité a ét
 
 **Le Savez vous?**
 
-  
 L’Abbé Nicolas Louis de Lacaille était un astronome qui a eu le grand honneur de nommer 15 des 88 constellations du ciel. Entre 1750 et 1754, il a étudié les étoiles de l'hémisphère sud du cap de Bonne-Espérance, à l'extrême pointe de l'Afrique. Au cours de ses années là-bas, il a observé plus de 10 000 étoiles en utilisan seulement son réfracteur de 0.5 pouce. Fornax a été nommé comme Chemical Furnace en hommage d'Antoine Lavoisier, qui a été guillotiné pendant la Révolution française en 1794.
 
 ![The Abbé Nicolas Louis de Lacaille, 1713–62.](/uploads/2019/06/12/Lacaille.png "The Abbé Nicolas Louis de Lacaille, 1713–62.")
