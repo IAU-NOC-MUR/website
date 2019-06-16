@@ -17,9 +17,15 @@
                 	{% assign sorted = (site.activities | sort: 'date') | reverse %}
 
             {% for project in sorted limit:5 %}
+
+                {% if project.title contains '[FR]' %}
+                {% continue %}
+                {% endif %}
+
                 <li><a href="{{ project.url | absolute_url }}">{{ project.title }}</a></li>
             {% endfor %}
             {% if site.projects | size > 5 %}
+            
                 <li><a href="{{ "/activities/" | absolute_url }}">See all activities</a></li>
             {% endif %}
             </ul>
