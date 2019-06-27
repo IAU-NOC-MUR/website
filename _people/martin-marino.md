@@ -4,9 +4,9 @@ date: '2017-11-14T11:08:34.000+00:00'
 role:
 - advisor
 - board
-sub_heading: Member
+sub_heading: 'Outreach Coordinator '
 thumbnail: "/uploads/2019/06/11/placeholder-square.jpg"
-email: martin@belkirkcollege.com
+email: ''
 linkedin: ''
 layout: person
 order: 3
