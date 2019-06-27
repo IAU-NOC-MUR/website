@@ -1,6 +1,6 @@
 ---
 title: The Basics of Astrophotography
-date: 2019-04-20 18:00:00 +0000
+date: 2019-04-20T18:00:00.000+00:00
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'
@@ -8,6 +8,7 @@ banner_image: "/uploads/2019/05/22/56480297_2333684226869823_530057732363911168_
 sub_heading: " Free Beginner's Course"
 tags: []
 slug: ''
+status: Past
 
 ---
 ## POSTPONED TO NEXT SATURDAY 20TH of April because of cloudy and rainy weather.

@@ -28,7 +28,7 @@ fields:
   label: slug
 - name: status
   type: select
-  default: ''
+  default: Ongoing
   config:
     required: false
     options:

@@ -36,3 +36,17 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: status
+  type: select
+  default: Ongoing
+  config:
+    required: false
+    options:
+    - Ongoing
+    - Past
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Status

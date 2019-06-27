@@ -5,6 +5,7 @@ date: 2019-05-16T19:07:50.000+00:00
 banner_image: "/uploads/2019/05/22/CgBLLJvXEAA6XBF.jpg"
 sub_heading: l'Île Maurice honorée pour nommer une exoplanète
 slug: ''
+status: Ongoing
 
 ---
 ### Language : **Français 🇫🇷** | [English 🇬🇧](/activities/nameexoworlds/)

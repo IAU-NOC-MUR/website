@@ -1,6 +1,6 @@
 ---
 title: IAU 100 Hours of Astronomy Mauritius
-date: 2019-01-10 00:00:00 +0000
+date: 2019-01-10T00:00:00.000+00:00
 categories: []
 description: A portable device for epileptic patients.
 banner_image: "/uploads/2019/05/22/ann18063a (2).jpg"
@@ -9,6 +9,7 @@ sub_heading: 'The IAU 100th anniversary provides a wonderful opportunity to high
   brought us over the past century. '
 tags: []
 slug: ''
+status: Past
 
 ---
 # Celebrating IAU100 Years
