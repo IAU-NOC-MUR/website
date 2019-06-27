@@ -13,8 +13,8 @@ textline: Official website from the International Astronomical Union - Office fo
   Astronomy Outreach (IAU-OAO) dedicated to the National Outreach Committee (NOC)
   in Mauritius.
 hero_button:
-  text: Learn more
-  href: https://iau-noc-mur.netlify.com/activities/nameexoworlds/
+  text: Send your proposal
+  href: https://forms.gle/ixEGnBK7pZud8BkR6
 show_news: true
 show_staff: false
 menu:

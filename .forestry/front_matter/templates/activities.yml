@@ -26,3 +26,17 @@ fields:
 - type: text
   name: slug
   label: slug
+- name: status
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Past
+    - Ongoing
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Status

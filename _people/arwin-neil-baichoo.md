@@ -3,7 +3,7 @@ role:
 - staff
 layout: person
 title: Arwin Neil Baichoo
-sub_heading: Member
+sub_heading: Technical Lead
 thumbnail: "/uploads/2019/05/29/clqAOTnh_400x400.jpg"
 email: ''
 linkedin: ''

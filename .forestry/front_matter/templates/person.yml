@@ -46,6 +46,8 @@ fields:
     max: 
     step: 
 pages:
+- _people/nitin-rughoonauth.md
+- _people/rajeev-manick.md
 - _people/reuben-pillay.md
 - _people/arwin-neil-baichoo.md
 - _people/1-nadeem-oozeer.md

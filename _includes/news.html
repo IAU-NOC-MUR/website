@@ -14,14 +14,20 @@
         </div>
         <div class="pure-u-1 pure-u-md-1-2">
             <div class="col-wrap">
-                <h2>Latest Activities</h2>
+                <h2>Ongoing Activities</h2>
                 <ul class="posts">
                     {% assign sorted = (site.activities | sort: 'date') | reverse %}
                     {% for project in sorted limit:3 %}
 
                     {% if project.title contains '[FR]' %}
 							{% continue %}
-					{% endif %}
+                    {% endif %}
+                    
+                    {% for project in sorted %}
+
+                    {% if project.status contains 'Past' %}
+                        {% continue %}
+                    {% endif %}
                 
                     <li>
                         <a href="{{ project.url | absolute_url }}">{{ project.title }}</a>
