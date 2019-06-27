@@ -10,4 +10,4 @@ linkedin: ''
 order: 4
 
 ---
-Software Engneering graduate & Astronomy enthusiast. Also a member of Space Generation Advisory Council and tech conference speaker at the Mauritius Software Craftsmanship Community.
+Software Engineer & Astronomy enthusiast. Also a member of Space Generation Advisory Council and tech conference speaker at the Mauritius Software Craftsmanship Community.
