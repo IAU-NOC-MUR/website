@@ -46,6 +46,7 @@ fields:
     max: 
     step: 
 pages:
+- _people/madinah-dillmahomed.md
 - _people/mathilde-jauzac.md
 - _people/nitin-rughoonauth.md
 - _people/rajeev-manick.md
