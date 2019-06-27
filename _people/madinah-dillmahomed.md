@@ -4,7 +4,7 @@ role:
 layout: person
 title: Madinah Dillmahomed
 sub_heading: Member
-thumbnail: ''
+thumbnail: "/uploads/2019/06/11/placeholder-square.jpg"
 email: ''
 linkedin: ''
 order: 9
