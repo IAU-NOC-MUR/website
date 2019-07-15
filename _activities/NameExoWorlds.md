@@ -19,15 +19,13 @@ As part of the IAU's mission to promote and safeguard the science of astronomy t
 
 The IAU encourages all people of Earth to consider themselves “Citizens of the Cosmos”, and set aside borders, wars, and cultural differences for a universal, peaceful view of humanity as just one race, possibly among many cosmic neighbours in the Universe.
 
-“The proposed names should be of things, people, or places of long-standing cultural, historical, or geographical significance, worthy of being assigned to a celestial object” - IAU. More guidelines for the naming can be found from the IAU NameExoworlds website ( [http://www.nameexoworlds.iau.org](http://www.nameexoworlds.iau.org/naming-rules") ).
+“The proposed names should be of things, people, or places of long-standing cultural, historical, or geographical significance, worthy of being assigned to a celestial object” - IAU. More guidelines for the naming can be found from the IAU NameExoworlds website ( [http://www.nameexoworlds.iau.org](http://www.nameexoworlds.iau.org/naming-rules%22) ).
 
 The shortlisted names will be announced in December 2019. A committee has been set up by the IAU National Outreach Coordinator (IAU-NOC) of Mauritius. The Mauritian team page can been viewed on [https://iau-noc-mur.netlify.com/](https://iau-noc-mur.netlify.com/ "https://iau-noc-mur.netlify.com/") and on all social media platforms.
 
-
+["Learn more about the WASP Planets"](https://wasp-planets.net/ )
 
 <a href="https://wasp-planets.net/" target="_blank" class="pure-button button-success button-xlarge" title="Learn more about the WASP Planets">Learn more about the WASP Planets  <i class="fa fa-chevron-right"></i>
-  
-  
 
 ### **Did You know**
 
