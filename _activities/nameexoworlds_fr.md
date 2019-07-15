@@ -20,7 +20,10 @@ L’UAI encourage tous les peuples de la Terre à se considérer comme «des cit
 
 «Les noms proposés doivent être des choses, des personnes ou des lieux ayant une signification culturelle, historique ou géographique ancienne, dignes d'être attribués à un objet céleste» - UAI. Vous trouverez plus de directives sur la dénomination sur le site Web de l'UAI NameExoworlds. ([http://www.nameexoworlds.iau.org/naming-rules](http://www.nameexoworlds.iau.org/naming-rules "http://www.nameexoworlds.iau.org/naming-rules")).
 
-Les noms présélectionnés seront annoncés en Décembre 2019. Un comité a été mis en place par le coordinateur national de la sensibilisation de l'UAI (IAU-NOC) de Maurice. La page de l'équipe mauricienne peut être consultée sur [https://iau-noc-mur.netlify.com/](http://www.nameexoworlds.iau.org/naming-rules "http://www.nameexoworlds.iau.org/naming-rules") et vous pouvez suivre notre page Facebook pour les mises à jour sur [https://bit.ly/iau-mur-fb](http://www.nameexoworlds.iau.org/naming-rules "http://www.nameexoworlds.iau.org/naming-rules") .
+Les noms présélectionnés seront annoncés en Décembre 2019. Un comité a été mis en place par le coordinateur national de la sensibilisation de l'UAI (IAU-NOC) de Maurice. La page de l'équipe mauricienne peut être consultée sur [https://iau-noc-mur.netlify.com/](http://www.nameexoworlds.iau.org/naming-rules "http://www.nameexoworlds.iau.org/naming-rules") et vous pouvez suivre notre page Facebook pour les mises à jour sur [https://bit.ly/iau-mur-fb](http://www.nameexoworlds.iau.org/naming-rules "http://www.nameexoworlds.iau.org/naming-rules").
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdKE_TB5dbS60Sgi6NDkpr_GjA6MmfRRp6Y2IZRWGE9oIovGQ/viewform" target="_blank" class="pure-button button-success button-xlarge" title="Soumettre votre proposition"> Soumettre votre proposition <i class="fa fa-chevron-right"></i>
+
 
 **Le Savez vous?**
 
