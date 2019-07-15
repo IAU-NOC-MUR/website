@@ -24,7 +24,7 @@ The IAU encourages all people of Earth to consider themselves “Citizens of the
 
 The shortlisted names will be announced in December 2019. A committee has been set up by the IAU National Outreach Coordinator (IAU-NOC) of Mauritius. The Mauritian team page can been viewed on [https://iau-noc-mur.netlify.com/](https://iau-noc-mur.netlify.com/ "https://iau-noc-mur.netlify.com/") and on all social media platforms.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdKE_TB5dbS60Sgi6NDkpr_GjA6MmfRRp6Y2IZRWGE9oIovGQ/viewform" target="_blank" class="pure-button button-success button-xlarge" title="Submit your proposal ">Learn more about the WASP Planets  <i class="fa fa-chevron-right"></i>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdKE_TB5dbS60Sgi6NDkpr_GjA6MmfRRp6Y2IZRWGE9oIovGQ/viewform" target="_blank" class="pure-button button-success button-xlarge" title="Submit your proposal"> Submit your proposal <i class="fa fa-chevron-right"></i>
 
 ### **Did You know**
 
