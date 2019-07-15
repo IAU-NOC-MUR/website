@@ -25,7 +25,7 @@ The shortlisted names will be announced in December 2019. A committee has been s
 
 ["Learn more about the WASP Planets"](https://wasp-planets.net/ )
 
-<a href="https://wasp-planets.net/" target="_blank" class="pure-button button-success button-xlarge" title="Learn more about the WASP Planets">Learn more about the WASP Planets  <i class="fa fa-chevron-right"></i>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdKE_TB5dbS60Sgi6NDkpr_GjA6MmfRRp6Y2IZRWGE9oIovGQ/viewform" target="_blank" class="pure-button button-success button-xlarge" title="Submit your proposal">Learn more about the WASP Planets  <i class="fa fa-chevron-right"></i>
 
 ### **Did You know**
 
