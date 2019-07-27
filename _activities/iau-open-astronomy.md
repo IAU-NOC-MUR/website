@@ -33,16 +33,43 @@ The objectives of the proposed training are: 1. use new teaching methodologies t
 
 ### Workshop day-to-day plan
 
-09:00 - 10:00  ● Arrival of participants, Registration and tea
-
-10:00 -10:15 ● Welcome address
-
-0:30 - 10:45 ● Ice breaking know your colleagues/participants
-
-10:45 - 11:00 ● JEDI concept and objectives (Nadeem Oozeer)
-
-11:00 - 12:00 ● Round table discussion: Challenges teaching STEM in Mauritius (All participants)
-
-            ○ Potential solution and constraint 
-
-            ○ Group presentation
+<table class="demo">
+	<caption>Table 1</caption>
+	<thead>
+	<tr>
+		<th><br></th>
+		<th></th>
+	</tr>	</thead>	<tbody>	<tr>
+		<td>&nbsp;09:00 - 10:00</td>
+		<td>&nbsp;● Arrival of participants, Registration and tea</td>
+	</tr>
+	<tr>
+		<td>&nbsp;10:00 -10:15<p></p></td>
+		<td>&nbsp;● Welcome address</td>
+	</tr>
+	<tr>
+		<td>10:30 - 10:45</td>
+		<td>&nbsp;● Ice breaking know your colleagues/participants</td>
+	</tr>
+	<tr>
+		<td>&nbsp;10:45 - 11:00&nbsp;</td>
+		<td>&nbsp;● JEDI concept and objectives (Nadeem Oozeer)</td>
+	</tr>
+	<tr>
+		<td>&nbsp;11:00 - 12:00&nbsp;</td>
+		<td>&nbsp;● Round table discussion: Challenges teaching STEM in Mauritius (All participants)<br></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tbody>
+</table>
