@@ -33,6 +33,22 @@ The objectives of the proposed training are: 1. use new teaching methodologies t
 
 ### Workshop day-to-day plan
 
+<style>
+	.demo {
+		width:100%;
+		border:1px solid #C0C0C0;
+		border-collapse:collapse;
+		padding:5px;
+	}
+	.demo th {
+		border:1px solid #C0C0C0;
+		padding:5px;
+	}
+	.demo td {
+		border:1px solid #C0C0C0;
+		padding:5px;
+	}
+</style>
 <table class="demo">
 	<caption>Table 1</caption>
 	<thead>
