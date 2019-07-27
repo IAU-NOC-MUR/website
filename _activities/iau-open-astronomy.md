@@ -57,35 +57,34 @@ The objectives of the proposed training are: 1. use new teaching methodologies t
 		<th></th>
 	</tr>	</thead>	<tbody>	<tr>
 		<td>&nbsp;09:00 - 10:00</td>
-		<td>&nbsp;● Arrival of participants, Registration and tea</td>
+		<td>● Arrival of participants, Registration and tea</td>
 	</tr>
 	<tr>
 		<td>&nbsp;10:00 -10:15<p></p></td>
-		<td>&nbsp;● Welcome address</td>
+		<td>● Welcome address</td>
 	</tr>
 	<tr>
 		<td>10:30 - 10:45</td>
-		<td>&nbsp;● Ice breaking know your colleagues/participants</td>
+		<td>● Ice breaking know your colleagues/participants</td>
 	</tr>
 	<tr>
-		<td>&nbsp;10:45 - 11:00&nbsp;</td>
+		<td>10:45 - 11:00&nbsp;</td>
 		<td>&nbsp;● JEDI concept and objectives (Nadeem Oozeer)</td>
 	</tr>
 	<tr>
-		<td>&nbsp;11:00 - 12:00&nbsp;</td>
-		<td>&nbsp;● Round table discussion: Challenges teaching STEM in Mauritius (All participants)<br></td>
+		<td>11:00 -12:00</td>
+		<td>● Round table discussion: Challenges teaching STEM in Mauritius (All participants)<br></td>
 	</tr>
 	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td>12:30 -13:30</td>
+		<td>&nbsp;Lunch Break</td>
 	</tr>
 	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td>13:30 - 15:00
+</td>
+		<td>● Hand on session:
+<br>○ Can we build a “cheap” teaching aid kit that can be used by
+ANY student and write down the teacher notes<br></td>
 	</tr>
 	<tbody>
 </table>
