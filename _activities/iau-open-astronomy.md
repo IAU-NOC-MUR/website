@@ -36,5 +36,3 @@ The objectives of the proposed training are: 1. use new teaching methodologies t
 ### Day 1 - Open Astronomy School
 
 ![](/uploads/2019/07/27/Annotation 2019-07-27 183114.png)
-
-### Day 2 - Open Astronomy School
