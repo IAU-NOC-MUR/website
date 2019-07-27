@@ -4,7 +4,7 @@ tags: []
 status: Ongoing
 title: " IAU Open Astronomy "
 sub_heading: 'Open Astronomy schools workshop: Teaching and Learning differently.'
-banner_image: ''
+banner_image: "/uploads/2019/07/27/duotone (1).png"
 slug: ''
 
 ---
