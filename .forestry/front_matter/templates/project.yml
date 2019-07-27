@@ -50,3 +50,5 @@ fields:
       file: 
       path: 
   label: Status
+pages:
+- _activities/iau-open-astronomy.md
