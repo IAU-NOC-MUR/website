@@ -6,7 +6,6 @@ title: " IAU Open Astronomy "
 sub_heading: 'Open Astronomy schools workshop: Teaching and Learning differently.'
 banner_image: ''
 slug: ''
-published: false
 
 ---
 **This project is part of the IAU Open Astronomy school supported by the IAU100 years.**
