@@ -33,58 +33,114 @@ The objectives of the proposed training are: 1. use new teaching methodologies t
 
 ### Workshop day-to-day plan
 
+## Day 2 - Open Astronomy School
+
 <style>
-	.demo {
-		width:100%;
-		border:1px solid #C0C0C0;
-		border-collapse:collapse;
-		padding:5px;
-	}
-	.demo th {
-		border:1px solid #C0C0C0;
-		padding:5px;
-	}
-	.demo td {
-		border:1px solid #C0C0C0;
-		padding:5px;
-	}
+.demo {
+width:100%;
+border:1px solid #C0C0C0;
+border-collapse:collapse;
+padding:5px;
+}
+.demo th {
+border:1px solid #C0C0C0;
+padding:5px;
+}
+.demo td {
+border:1px solid #C0C0C0;
+padding:5px;
+}
 </style>
 <table class="demo">
-	<caption>Table 1</caption>
-	<thead>
-	<tr>
-		<th><br></th>
-		<th></th>
-	</tr>	</thead>	<tbody>	<tr>
-		<td>&nbsp;09:00 - 10:00</td>
-		<td>● Arrival of participants, Registration and tea</td>
-	</tr>
-	<tr>
-		<td>&nbsp;10:00 -10:15<p></p></td>
-		<td>● Welcome address</td>
-	</tr>
-	<tr>
-		<td>10:30 - 10:45</td>
-		<td>● Ice breaking know your colleagues/participants</td>
-	</tr>
-	<tr>
-		<td>10:45 - 11:00&nbsp;</td>
-		<td>&nbsp;● JEDI concept and objectives (Nadeem Oozeer)</td>
-	</tr>
-	<tr>
-		<td>11:00 -12:00</td>
-		<td>● Round table discussion: Challenges teaching STEM in Mauritius (All participants)<br></td>
-	</tr>
-	<tr>
-		<td>12:30 -13:30</td>
-		<td>&nbsp;Lunch Break</td>
-	</tr>
-	<tr>
-		<td>13:30 - 15:00
-</td>
-		<td>● Hand on session:
-<br>○ Can we build a “cheap” teaching aid kit that can be used by
-ANY student and write down the teacher notes<br></td>
-	</tr>
-	<tbody>
-</table>
+
+    <thead>
+        <tr>
+            <th><br></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>&nbsp;09:00 - 10:00</td>
+            <td>● Arrival of participants, Registration and tea</td>
+        </tr>
+        <tr>
+            <td>&nbsp;10:00 -10:15<p></p>
+            </td>
+            <td>● Welcome address</td>
+        </tr>
+        <tr>
+            <td>10:30 - 10:45</td>
+            <td>● Ice breaking know your colleagues/participants</td>`
+        </tr>
+        <tr>
+            <td>10:45 - 11:00&nbsp;</td>
+            <td>&nbsp;● JEDI concept and objectives (Nadeem Oozeer)</td>
+        </tr>
+        <tr>
+            <td>11:00 -12:00</td>
+            <td>● Round table discussion: Challenges teaching STEM in Mauritius (All participants)<br>○ Potential
+                solution and constraint<br>○ Group presentation</td>
+    
+        </tr>
+        <tr>
+            <td>12:30 -13:30</td>
+            <td>&nbsp;Lunch Break</td>
+        </tr>
+        <tr>
+            <td>13:30 - 15:00
+            </td>
+            <td>● Hand on session:
+                <br>○ Can we build a “cheap” teaching aid kit that can be used by
+                ANY student and write down the teacher notes<br>○ Can we build a “cheap” teaching aid kit that can be
+                used by ANY student and write down the teacher notes</td>
+        </tr>
+    
+        <td>16:00
+        </td>
+    
+        <td>End of Day 1</td>
+    
+    <tbody>
+
+<table class="demo">
+<thead>
+<tr>
+<th><br></th>
+<th></th>
+</tr>	</thead>	<tbody>	<tr>
+<td> 09:00 - 10:00</td>
+<td>● Astronomy teaching past, present and future </td>
+</tr>
+<tr>
+<td> 10:00 -11:00<p></p></td>
+<td>● Astronomy for visually impaired learners </td>
+</tr>
+<tr>
+<td>11:00 - 11:15</td>
+<td>Tea Break</td>
+</tr>
+<tr>
+<td>11:30 - 12:30</td>
+<td> ● JEDI concept and objectives (Nadeem Oozeer)</td>
+</tr>
+<tr>
+<td>11:00 -12:00</td>
+<td>● Science Communication: Why should we care? (Nadeem Oozeer) </td>
+</tr>
+<tr>
+<td>12:30 -13:30</td>
+<td> Lunch Break</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>● Group work<br> ○ 2022 Cambridge A Level Physics implementation of
+“Introduction of astronomy and cosmology” - How can we get
+ready?
+<br>● Team presentation and workshop feedback<br></td>
+</tr>
+<tr>
+<td> 16:00</td>
+<td> End of workshop and closing remarks</td>
+</tr>
+<tbody>
