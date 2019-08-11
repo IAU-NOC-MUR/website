@@ -15,9 +15,7 @@ status: Ongoing
 
 In line with the International Astronomical Union (IAU) 100th anniversary celebration, Mauritians have been invited to name an Exoplanet, [WASP-72 b](https://wasp-planets.net/naming/wasp-72/), in the constellation of Fornax. WASP-72 b is a gas giant exoplanet that orbits a F-type star. Its mass is 2.3 times that of Jupiter, it takes 2.2 days to complete one orbit of its star. Its discovery was announced in 2012. 
 
-<a href="https://wasp-planets.net/ "target="_blank " class="button-outline pure-button">Learn more about the WASP Planets <i> class="fa fa-chevron-right"></i></a>
 
-<a href="https://exoplanets.nasa.gov/exoplanet-catalog/5144/wasp-72-b/"target="_blank " class="button-outline pure-button">Interact with WASP-72b <i> class="fa fa-chevron-right"></i></a>
 
 As part of the IAU's mission to promote and safeguard the science of astronomy through international cooperation, the IAU is the authority responsible for assigning official names to celestial bodies. Now, while celebrating its first 100 years of fostering international collaboration ([IAU100](http://www.iau-100.org/)), the IAU wishes to contribute to the fraternity of all people with a significant token of global identity. Following the first [NameExoWorlds competition](http://www.nameexoworlds.iau.org/first-edition), which [named 19 exoplanets](https://www.iau.org/news/pressreleases/detail/iau1514/) in 2015, the IAU will now, within the framework of the IAU100 NameExoWorlds project, offer every country the chance to name one planetary system, comprising an exoplanet and its host star. Each country’s designated star is visible from that country, and sufficiently bright to be observed through small telescopes.
 
