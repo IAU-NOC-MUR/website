@@ -12,7 +12,7 @@ status: Ongoing
 
 ![](/uploads/2019/06/12/nameexomur.jpg)
 
-Dans le cadre des célébrations du 100ème anniversaire de l’Union Astronomique Internationale (UAI), les mauriciens sont invités à nommer une exoplanète, WASP-72b, qui se trouve dans la constellation de Fornax. WASP-72 b est une exoplanète géante et gazeuse, qui gravite autour d'une étoile de type F. Sa découverte a été annoncée en 2012. Elle pèse 2,3 fois la masse de Jupiter, et il lui faut 2,2 jours pour compléter une orbite autour de son étoile.
+Dans le cadre des célébrations du 100ème anniversaire de l’Union Astronomique Internationale (UAI), les mauriciens sont invités à nommer une exoplanète, WASP-72b, qui se trouve dans la constellation de Fornax. [WASP-72 b](https://wasp-planets.net/naming/wasp-72/) est une exoplanète géante et gazeuse, qui gravite autour d'une étoile de type F. Sa découverte a été annoncée en 2012. Elle pèse 2,3 fois la masse de Jupiter, et il lui faut 2,2 jours pour compléter une orbite autour de son étoile.
 
 Dans le cadre de sa mission pour promouvoir et protéger l'astronomie par le biais de la coopération internationale, l'UAI est l'autorité chargée d’attribuer des noms officiels aux objets célestes. Dans le cadre de la célébration du 100ème anniversaire de la collaboration internationale (UAI100), l’UAI souhaite contribuer à la fraternité de tous les peuples marqués par l’identité mondiale. À la suite du premier concours NameExoWorlds, qui avait désigné 19 exoplanètes en 2015, l'UAI, dans le cadre du projet UAI100 NameExoWorlds, offrira à chaque pays l'opportunité de nommer un système planétaire comprenant une exoplanète et son étoile hôte. L’étoile assignée à chaque pays est visible de ce pays et suffisamment brillante pour être observée à l’aide de petits télescopes.
 
@@ -23,7 +23,6 @@ L’UAI encourage tous les peuples de la Terre à se considérer comme «des cit
 Les noms présélectionnés seront annoncés en Décembre 2019. Un comité a été mis en place par le coordinateur national de la sensibilisation de l'UAI (IAU-NOC) de Maurice. La page de l'équipe mauricienne peut être consultée sur [https://iau-noc-mur.netlify.com/](http://www.nameexoworlds.iau.org/naming-rules "http://www.nameexoworlds.iau.org/naming-rules") et vous pouvez suivre notre page Facebook pour les mises à jour sur [https://bit.ly/iau-mur-fb](http://www.nameexoworlds.iau.org/naming-rules "http://www.nameexoworlds.iau.org/naming-rules").
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdKE_TB5dbS60Sgi6NDkpr_GjA6MmfRRp6Y2IZRWGE9oIovGQ/viewform" target="_blank" class="pure-button button-success button-xlarge" title="Soumettre votre proposition"> Soumettre votre proposition <i class="fa fa-chevron-right"></i>
-
 
 **Le Savez vous?**
 
