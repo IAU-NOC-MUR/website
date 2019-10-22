@@ -22,4 +22,4 @@ In line with the International Astronomical Union (IAU) 100th anniversary celebr
 
 3\. You are also invited to participate in the naming of the exoplanet's parent star! Please leave your suggestion below.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdKE_TB5dbS60Sgi6NDkpr_GjA6MmfRRp6Y2IZRWGE9oIovGQ/viewform" target="_blank" class="pure-button button-success button-xlarge" title="Submit your proposal"> Submit your proposal <i class="fa fa-chevron-right"></i>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfDa1tPoAaYSkPx5FpQmCXiIP2HjaUvuFYcGhWbiCDDgGWurQ/viewform?usp=sf_link" target="_blank" class="pure-button button-success button-xlarge" title="Submit your proposal"> Submit your vote <i class="fa fa-chevron-right"></i>
