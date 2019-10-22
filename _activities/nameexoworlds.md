@@ -1,13 +1,12 @@
 ---
 title: NameExoWorlds - Second Round
 tags: []
-date: 2019-05-16T19:07:50.000+00:00
+date: 2019-10-22 19:07:50 +0000
 banner_image: "/uploads/2019/05/22/CgBLLJvXEAA6XBF.jpg"
 sub_heading: 'The NameExoWorlds contest provided the first opportunity for the public
   to name exoplanets, and their stars. '
 slug: ''
 status: Ongoing
-published: false
 
 ---
 ![](/uploads/2019/06/12/nameexomur.jpg)
