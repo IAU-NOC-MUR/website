@@ -10,8 +10,6 @@ status: Ongoing
 published: false
 
 ---
-### Language : **English 🇬🇧** | [Français 🇫🇷](/activities/nameexoworlds_fr)
-
 ![](/uploads/2019/06/12/nameexomur.jpg)
 
 In line with the International Astronomical Union (IAU) 100th anniversary celebration, Mauritians have been invited to name an Exoplanet, WASP-72 b, in the constellation of Fornax.
