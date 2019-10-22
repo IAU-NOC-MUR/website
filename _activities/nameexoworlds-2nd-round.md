@@ -5,7 +5,7 @@ status: Ongoing
 title: NameExoWorlds - 2nd Round
 sub_heading: 'The NameExoWorlds contest provided the first opportunity for the public
   to name exoplanets, and their stars. '
-banner_image: ''
+banner_image: "/uploads/2019/05/22/CgBLLJvXEAA6XBF.jpg"
 slug: ''
 
 ---
