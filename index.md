@@ -14,7 +14,7 @@ textline: Official website from the International Astronomical Union - Office fo
   in Mauritius.
 hero_button:
   text: Submit your vote
-  href: https://docs.google.com/forms/d/e/1FAIpQLSfDa1tPoAaYSkPx5FpQmCXiIP2HjaUvuFYcGhWbiCDDgGWurQ/viewform?usp=sf_link
+  href: https://docs.google.com/forms/d/e/1FAIpQLSd5hojS8Vo4MTEcyEx-ETTry93viMPVS3lImFlDJ15tKfgOiQ/viewform
 show_news: true
 show_staff: false
 menu:
