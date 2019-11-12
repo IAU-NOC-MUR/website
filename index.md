@@ -9,6 +9,7 @@ partners:
 services: []
 sub_heading: The NameExoWorlds contest provided the first opportunity for the public
   to name exoplanets, and their stars. Final vote open till November 14th at Midnight
+  (GMT)
 textline: Official website from the International Astronomical Union - Office for
   Astronomy Outreach (IAU-OAO) dedicated to the National Outreach Committee (NOC)
   in Mauritius.
