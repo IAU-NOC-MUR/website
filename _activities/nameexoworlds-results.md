@@ -3,7 +3,7 @@ date: 2019-12-20 18:32:00 +0000
 tags: []
 status: Ongoing
 title: NameExoWorlds - Results
-sub_heading: ''
+sub_heading: Approved names for NameExoWorlds campaign announced!
 banner_image: "/uploads/2019/12/20/Mauritius_banner_67 (1).jpg"
 slug: ''
 
