@@ -51,6 +51,6 @@ fields:
       path: 
   label: Status
 pages:
-- _activities/nameexoworlds-final-round.md
-- _activities/nameexoworlds-2nd-round.md
 - _activities/iau-open-astronomy.md
+- _activities/nameexoworlds-2nd-round.md
+- _activities/nameexoworlds-final-round.md
