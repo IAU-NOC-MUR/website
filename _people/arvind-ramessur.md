@@ -8,6 +8,5 @@ thumbnail: "/uploads/2019/06/11/placeholder-square.jpg"
 email: ''
 linkedin: ''
 order: 2
-published: false
 
 ---
