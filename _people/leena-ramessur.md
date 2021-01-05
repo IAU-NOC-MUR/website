@@ -8,6 +8,5 @@ sub_heading: Member
 thumbnail: ''
 email: ''
 linkedin: ''
-published: false
 
 ---
