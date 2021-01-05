@@ -2,7 +2,7 @@
 role:
 - staff
 layout: person
-title: Reuben Pillay -(copy)
+title: Arvind Ramessur
 sub_heading: IAU NOC Deputy
 thumbnail: "/uploads/2019/06/11/placeholder-square.jpg"
 email: ''
