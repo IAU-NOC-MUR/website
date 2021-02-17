@@ -2,10 +2,10 @@
 role:
 - staff
 layout: person
-order: 6
+order: 5
 title: 'Leena Ramessur '
 sub_heading: Member
-thumbnail: ''
+thumbnail: "/uploads/2019/06/11/placeholder-square.jpg"
 email: ''
 linkedin: ''
 
