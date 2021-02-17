@@ -2,7 +2,7 @@
 role:
 - staff
 layout: person
-order: 0
+order: 6
 title: 'Leena Ramessur '
 sub_heading: Member
 thumbnail: ''
