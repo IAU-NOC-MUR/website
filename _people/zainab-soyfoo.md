@@ -8,7 +8,6 @@ sub_heading: ''
 thumbnail: ''
 email: ''
 linkedin: ''
-published: false
 
 ---
 Zainab Soyfoo holds a Bachelor’s degree in English from the University of Mauritius,
