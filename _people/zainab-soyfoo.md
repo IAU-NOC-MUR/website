@@ -5,7 +5,7 @@ layout: person
 order: 10
 title: Zainab Soyfoo
 sub_heading: ''
-thumbnail: ''
+thumbnail: "/uploads/2019/06/11/placeholder-square.jpg"
 email: ''
 linkedin: ''
 
