@@ -2,7 +2,7 @@
 role:
 - staff
 layout: person
-order: 5
+order: 4
 title: Avishek Dusoye
 sub_heading: Member
 thumbnail: "/uploads/2021/08/16/avishek-dusoye.jpg"
