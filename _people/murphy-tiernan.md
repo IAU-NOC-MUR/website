@@ -9,7 +9,7 @@ sub_heading: Member
 email: ''
 linkedin: ''
 layout: person
-order: 5
+order: 7
 
 ---
 Undergraduate student in Physics at the University of Mauritius.

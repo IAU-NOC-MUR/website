@@ -2,7 +2,7 @@
 role:
 - staff
 layout: person
-order: 10
+order: 12
 title: Zainab Soyfoo
 sub_heading: Member
 thumbnail: "/uploads/2019/06/11/placeholder-square.jpg"

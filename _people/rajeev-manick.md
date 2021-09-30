@@ -7,7 +7,7 @@ sub_heading: Member
 thumbnail: "/uploads/2019/06/11/placeholder-square.jpg"
 email: ''
 linkedin: ''
-order: 6
+order: 11
 
 ---
 Hi there! I am Rajeev, a post-doctoral researcher at the South African Astronomical Observatory (SAAO). I did my bachelors in Physics at the University of Mauritius (UoM) after which I joined the University of Cape Town (UCT) joint with the SAAO for my post-graduate studies in Astrophysics. I completed my MSc research at the SAAO with Dr. Brent Miszalski, working on Central Stars of Planetary Nebulae (PNe), more specifically searching for binaries in them with the South African Large Telescope (SALT). The highlight of my MSc research was the discovery of a binary at the centre of the PN NGC5189, famous for its enigmatic Hubble space telescope images.

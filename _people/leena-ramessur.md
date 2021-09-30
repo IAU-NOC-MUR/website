@@ -2,7 +2,7 @@
 role:
 - staff
 layout: person
-order: 5
+order: 8
 title: 'Leena Ramessur '
 sub_heading: Member
 thumbnail: "/uploads/2021/04/08/leena-ramessur.jpg"
