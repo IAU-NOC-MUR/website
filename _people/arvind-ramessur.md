@@ -36,4 +36,4 @@ Postgraduate Bursary Conference. [https://issuu.com/wheatlands/docs/ska_digital]
 
 **Newsletter**: “International Joint Meeting: Communicating Across Cultures” Published by Alumni Affairs Office (Singapore)- Class Act Magazine; Issue 207, June 2020. [http://enewsletter.ntu.edu.sg/classact/Jun20/Pages/an60.aspx]()
 
-**Interview**: “South Africa opens new ‘eye’ on southern skies” Published by the Institute of Physics (IOP), Telescopes and Space Mission: June 06, 2018. [https://tinyurl.com/ioppublications]()
+**Interview**: [“South Africa opens new ‘eye’ on southern skies” Published by the Institute of Physics (IOP), Telescopes and Space Mission: June 06, 2018.](https://tinyurl.com/ioppublications)[ https://tinyurl.com/ioppublications]()
