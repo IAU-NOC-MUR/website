@@ -3,8 +3,8 @@ role:
 - staff
 layout: person
 order: 2
-title: Arvind Ramessur, MRes.
-sub_heading: IAU NOC Deputy
+title: Arvind Ramessur
+sub_heading: 'IAU NOC Mauritius (Deputy) '
 thumbnail: "/uploads/2021/02/17/iau-noc_profile_photo-2.png"
 email: arvind.iau.mru@gmail.com
 linkedin: ''
