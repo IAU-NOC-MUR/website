@@ -10,7 +10,7 @@ email: arvind.iau.mru@gmail.com
 linkedin: ''
 
 ---
-Arvind Ramessur holds a Bachelor’s degree in Physics from the [_University of Mauritius _](https://www.uom.ac.mu/)and a Master’s degree (research) in Astronomy from the [_University of South Africa _](https://www.unisa.ac.za/sites/corporate/default/)cum [_Hartebeesthoek Radio Astronomy Observatory_](http://www.hartrao.ac.za/)_._
+Arvind Ramessur holds a Bachelor’s degree in Physics from the University of Mauritius and a Master’s degree (research) in Astronomy from the University of South Africa cum [_Hartebeesthoek Radio Astronomy Observatory_](http://www.hartrao.ac.za/)_._
 
 His Honours degree was focused on investigating the readiness (in terms of antenna dish technology and expertise available) for Mauritius - one of the eight partner countries of South Africa - to host the [_Square Kilometre Array_](https://www.sarao.ac.za/) radio telescope.
 
@@ -30,7 +30,7 @@ Press: March 24, 2015. ](https://doi.org/10.1017/S1743921315002562)
 **Ramessur, A.**, [“Astrophysical jets in a distant galaxy could teach us physics” Published by Mail &Guardian: August 22, 2014. ](https://mg.co.za/article/2014-08-18-astrophysical-jets-in-distant-galaxy-could-teach-us-physics)
 
 **Ramessur, A.**, [“Examining High Energy Jets” Published on Issuu by Munyaradzi Makoni: December 8, 2014. SKA
-Postgraduate Bursary Conference.](https://issuu.com/wheatlands/docs/ska_digital) 
+Postgraduate Bursary Conference.](https://issuu.com/wheatlands/docs/ska_digital)
 
 **Ramessur, A**., [“Fourier-plane Modeling of the Jet in the nucleus of the galaxy M81”](http://hdl.handle.net/10500/23817)
 
