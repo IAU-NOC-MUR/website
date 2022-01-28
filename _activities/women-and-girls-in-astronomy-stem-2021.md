@@ -18,7 +18,13 @@ Women and Girls in Astronomy is a global science communication project of the In
 
 For more info: [https://www.iau.org/public/women-and-...](https://www.iau.org/public/women-and-... "https://www.iau.org/public/women-and-...")
 
-Arvind Ramessur: _Project Leader of Women & Girls in Astronomy/STEM 2021 for Mauritius:_ 
+The Women and Girls in Astronomy/STEM 2021 project for Mauritius were led by Ramessur Arvind (Deputy IAU NOC Mauritius) and this project consisted of 3 phases:
+
+* _Phase 1 - Speech Crafting_
+* _Phase 2 - Speech Rehearsal and Recording, and_
+* _Phase 3 - Video Editing and Publication._ 
+
+Videos were published on the newly created IAU-NOC Mauritius Youtube Channel, Instagram page, and they were also shared by IAU-OAO on their Facebook page.
 
 **Our NOC Participants/Speakers:**
 
