@@ -3,7 +3,7 @@ role:
 - staff
 layout: person
 order: 2
-title: Arvind Ramessur
+title: Arvind Ramessur, MRes., EC4
 sub_heading: IAU NOC Deputy
 thumbnail: "/uploads/2021/02/17/iau-noc_profile_photo-2.png"
 email: ''
