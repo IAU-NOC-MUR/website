@@ -24,16 +24,16 @@ Outside of research, his interests are photography, traveling, woodworking, body
 
 **List of Publications (Selected):**
 
-**Ramessur, A.**, Bietenholz, M. F., Leeuw, L. L., Bartel, N. 2015, IAU, 313, 388. Published by Cambridge University
-Press: March 24, 2015. [https://doi.org/10.1017/S1743921315002562]()
+**Ramessur, A.**, [Bietenholz, M. F., Leeuw, L. L., Bartel, N. 2015, IAU, 313, 388. Published by Cambridge University
+Press: March 24, 2015. ](https://doi.org/10.1017/S1743921315002562)
 
-**Ramessur, A.**, “Astrophysical jets in a distant galaxy could teach us physics” Published by Mail &Guardian: August 22, 2014. [https://mg.co.za/article/2014-08-18-astrophysical-jets-in-distant-galaxy-could-teach-us-physics]()
+**Ramessur, A.**, [“Astrophysical jets in a distant galaxy could teach us physics” Published by Mail &Guardian: August 22, 2014. ](https://mg.co.za/article/2014-08-18-astrophysical-jets-in-distant-galaxy-could-teach-us-physics)
 
-**Ramessur, A.**, “Examining High Energy Jets” Published on Issuu by Munyaradzi Makoni: December 8, 2014. SKA
-Postgraduate Bursary Conference. [https://issuu.com/wheatlands/docs/ska_digital]()
+**Ramessur, A.**, [“Examining High Energy Jets” Published on Issuu by Munyaradzi Makoni: December 8, 2014. SKA
+Postgraduate Bursary Conference.](https://issuu.com/wheatlands/docs/ska_digital) 
 
-**Ramessur, A**., “Fourier-plane Modeling of the Jet in the nucleus of the galaxy M81” [http://hdl.handle.net/10500/23817]()
+**Ramessur, A**., [“Fourier-plane Modeling of the Jet in the nucleus of the galaxy M81”](http://hdl.handle.net/10500/23817)
 
-**Newsletter**: “International Joint Meeting: Communicating Across Cultures” Published by Alumni Affairs Office (Singapore)- Class Act Magazine; Issue 207, June 2020. [http://enewsletter.ntu.edu.sg/classact/Jun20/Pages/an60.aspx]()
+**Newsletter**: [“International Joint Meeting: Communicating Across Cultures” Published by Alumni Affairs Office (Singapore)- Class Act Magazine; Issue 207, June 2020](http://enewsletter.ntu.edu.sg/classact/Jun20/Pages/an60.aspx)
 
-**Interview**: [“South Africa opens new ‘eye’ on southern skies” Published by the Institute of Physics (IOP), Telescopes and Space Mission: June 06, 2018.](https://tinyurl.com/ioppublications)[ https://tinyurl.com/ioppublications]()
+**Interview**: [“South Africa opens new ‘eye’ on southern skies” Published by the Institute of Physics (IOP), Telescopes and Space Mission: June 06, 2018](https://tinyurl.com/ioppublications)
