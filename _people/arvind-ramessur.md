@@ -38,4 +38,4 @@ Postgraduate Bursary Conference.](https://issuu.com/wheatlands/docs/ska_digital)
 
 **Interview**: [“South Africa opens new ‘eye’ on southern skies” Published by the Institute of Physics (IOP), Telescopes and Space Mission: June 06, 2018](https://tinyurl.com/ioppublications)
 
-![](/uploads/2022/01/28/img_7542.jpg)
+![Image Credit: IAU OAO](/uploads/2022/01/28/img_7542.jpg)
