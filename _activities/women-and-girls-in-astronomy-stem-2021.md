@@ -26,17 +26,17 @@ The Women and Girls in Astronomy/STEM 2021 project for Mauritius was led by Rame
 
 **Our NOC Participants/Speakers:**
 
-1. Madinah Dillmahomed
+1. **Madinah Dillmahomed**
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/FJ9-UxQE6n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-2. Leena Ramessur 
+2. **Leena Ramessur** 
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/svOQ0yldqds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-3. Farheen B. Hosanee
+3. **Farheen B. Hosanee**
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/56Z1gz222ps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-4. Mathilde Jauzac
+4. **Mathilde Jauzac**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ScYOo5Mh974" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
-Videos were published on the IAU-NOC Mauritius Youtube Channel, Instagram page, and also shared by IAU-OAO on their Facebook page.
+Videos were published on the IAU-NOC Mauritius Youtube Channel, Instagram page, and also shared by IAU-OAO on their [Facebook page](https://www.facebook.com/IAUoutreach).
