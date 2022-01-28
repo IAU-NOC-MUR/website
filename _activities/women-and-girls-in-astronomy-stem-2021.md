@@ -30,8 +30,12 @@ The Women and Girls in Astronomy/STEM 2021 project for Mauritius was led by Rame
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FJ9-UxQE6n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. Leena Ramessur: [https://youtu.be/svOQ0yldqds](https://youtu.be/svOQ0yldqds "Leena Ramessur")
-3. Farheen B. Hosanee: [https://youtu.be/56Z1gz222ps](https://youtu.be/56Z1gz222ps "Farheen B. Hosanee")
+2. Leena Ramessur
+<iframe width="560" height="315" src="https://www.youtube.com/embed/svOQ0yldqds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+3. Farheen B. Hosanee:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/56Z1gz222ps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 4. Mathilde Jauzac: [https://youtu.be/ScYOo5Mh974](https://youtu.be/ScYOo5Mh974  "Mathilde Jauzac")
 
 Videos were published on the IAU-NOC Mauritius Youtube Channel, Instagram page, and also shared by IAU-OAO on their Facebook page.
