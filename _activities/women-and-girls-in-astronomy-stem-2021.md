@@ -37,6 +37,6 @@ The Women and Girls in Astronomy/STEM 2021 project for Mauritius was led by Rame
     <iframe width="560" height="315" src="https://www.youtube.com/embed/56Z1gz222ps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 4. Mathilde Jauzac
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/ScYOo5Mh974](https://www.youtube.com/embed/ScYOo5Mh974 "https://www.youtube.com/embed/ScYOo5Mh974")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ScYOo5Mh974" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 Videos were published on the IAU-NOC Mauritius Youtube Channel, Instagram page, and also shared by IAU-OAO on their Facebook page.
