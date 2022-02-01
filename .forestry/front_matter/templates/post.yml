@@ -38,3 +38,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/hindu-girls-college-wins-a-prized-telescope.md
