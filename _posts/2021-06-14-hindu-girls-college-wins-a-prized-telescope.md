@@ -21,10 +21,8 @@ The IAU NOC for Mauritius received nine (9) proposals. The proposals came from a
 
 Mrs. Ramsurren, a Physics educator, led the Hindu Girls’ College proposal. During her career, she observed that girls are often demotivated to pursue further studies in STEM due to social bias and cultural pressure. She firmly believes that setting up an astronomy club at the school will boost the exposure and help rekindle girls' passion for STEM. An astronomy club offers students the right platform and opportunities to enjoy the mysteries of space through observation, education, and fun activities. Most importantly, the astronomy club aims to empower girls. The sky is not the limit; it is just the beginning. Everything is achievable, regardless of gender and background. One can go beyond and above to make their dreams come true.
 
-IAU NOC Mauritius encourages everyone to participate in the upcoming 2022 edition of the [_Telescopes for All_]() and other similar events. 
+IAU NOC Mauritius encourages everyone to participate in the upcoming 2022 edition of the [_Telescopes for All_]() and other similar events.
 
 For continuous news and updates, follow us on Facebook [https://bit.ly/iau-mur-fb.](https://bit.ly/iau-mur-fb. "https://bit.ly/iau-mur-fb.")
 
-Publication: [newsmoris.com]() 
-
-![Poster designed by Ramessur Arvind, MRes.,](/uploads/2022/02/01/telescopes-for-all-poster.png "Telescopes for All Edition 2021")
+Publication: [newsmoris.com]()
