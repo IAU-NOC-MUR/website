@@ -1,14 +1,14 @@
 ---
-layout: post
-title: Hindu Girls' College Wins a Prized Telescope
-sub_heading: 'IAU NOC Mauritius '
-date: 2021-06-14 20:00:00 +0000
+date: 2021-06-15 14:18:54 +0000
 tags:
 - "#Telescopes4All"
 - " #IAUoutreach"
 - " #NOCMauritius"
+status: Past
+title: Hindu Girls' College Wins a Prized Telescope
+sub_heading: 'IAU NOC Mauritius '
 banner_image: "/uploads/2022/02/01/ann21023a.jpeg"
-related_posts: []
+slug: ''
 
 ---
 ![Poster 1 designed by: Ms. Tasneem Rossenkhan](/uploads/2022/02/01/telescopes-for-all-illustration-by-tasneem-rossenkhan.jpg "Telescopes For All edition 2021")
