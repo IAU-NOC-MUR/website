@@ -5,8 +5,8 @@ tags:
 - " #IAUoutreach"
 - " #NOCMauritius"
 status: Past
-title: Hindu Girls' College Wins a Prized Telescope
-sub_heading: 'IAU NOC Mauritius '
+title: Telescopes For All Edition 2021
+sub_heading: Hindu Girls' College Wins a Prized Telescope
 banner_image: "/uploads/2022/02/01/ann21023a.jpeg"
 slug: ''
 
