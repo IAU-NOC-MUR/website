@@ -7,7 +7,7 @@ tags:
 status: Past
 title: Telescopes for All 2021
 sub_heading: Hindu Girls' College Wins a Prized Telescope
-banner_image: "/uploads/2022/02/02/1000_380px.png"
+banner_image: "/uploads/2022/02/02/t4all2021_920_350px.png"
 slug: ''
 
 ---
