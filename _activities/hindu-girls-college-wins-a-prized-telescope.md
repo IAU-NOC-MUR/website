@@ -5,7 +5,7 @@ tags:
 - " #IAUoutreach"
 - " #NOCMauritius"
 status: Past
-title: Telescopes For All Edition 2021
+title: 'Telescopes for All: Edition 2021'
 sub_heading: Hindu Girls' College Wins a Prized Telescope
 banner_image: "/uploads/2022/02/01/ann21023a.jpeg"
 slug: ''
@@ -26,5 +26,7 @@ IAU NOC Mauritius encourages everyone to participate in the upcoming 2022 editio
 For continuous news and updates, follow us on Facebook [https://bit.ly/iau-mur-fb.](https://bit.ly/iau-mur-fb. "https://bit.ly/iau-mur-fb.")
 
 Publication: [newsmoris.com]()
+
+![](/uploads/2022/02/02/700px.png)
 
 ![](/uploads/2022/02/02/0.png)
