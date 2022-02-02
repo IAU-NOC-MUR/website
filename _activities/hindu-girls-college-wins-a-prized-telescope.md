@@ -29,4 +29,4 @@ Publication: [newsmoris.com]()
 
 ![](/uploads/2022/02/02/700px.png)
 
-![](/uploads/2022/02/02/0.png)
+![](/uploads/2022/02/02/800px.png)
