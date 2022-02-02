@@ -11,7 +11,7 @@ banner_image: "/uploads/2022/02/02/2021t4all_1000by350px.png"
 slug: ''
 
 ---
-The **Hindu Girls’ College** won one of the 12 Telescopes in the _2021 edition of the Telescopes for All project._ The 2021 _Telescopes for All_ project received 225 applications from 54 countries. The proposals were selected with the active support of the National Outreach Coordinators (IAU NOCs). The telescope awarded to Hindu Girls’ College is an Optical BRESSER telescope that can provide incredible views of the moon and planets. Astronauts, including Nobel Prize winners, signed the telescope. Because of the Covid-19 pandemic, a digital camera was supplied with the telescope. This will allow schools to conduct observations and share them safely with everyone.
+The **Hindu Girls’ College** won one of the 12 Telescopes in the 2021 edition of the _"Telescopes for All"_ project. The 2021 _"Telescopes for All"_ project received 225 applications from 54 countries. The proposals were selected with the active support of the National Outreach Coordinators (IAU NOCs). The telescope awarded to Hindu Girls’ College is an Optical BRESSER telescope that can provide incredible views of the moon and planets. Astronauts, including Nobel Prize winners, signed the telescope. Because of the Covid-19 pandemic, a digital camera was supplied with the telescope. This will allow schools to conduct observations and share them safely with everyone.
 
 ![](/uploads/2022/02/02/t4all_illust_tasneem_500px.png)
 
@@ -21,7 +21,7 @@ The IAU NOC for Mauritius received nine (9) proposals. The proposals came from a
 
 Mrs. Ramsurren, a Physics educator, led the Hindu Girls’ College proposal. During her career, she observed that girls are often demotivated to pursue further studies in STEM due to social bias and cultural pressure. She firmly believes that setting up an astronomy club at the school will boost the exposure and help rekindle girls' passion for STEM. An astronomy club offers students the right platform and opportunities to enjoy the mysteries of space through observation, education, and fun activities. Most importantly, the astronomy club aims to empower girls. The sky is not the limit; it is just the beginning. Everything is achievable, regardless of gender and background. One can go beyond and above to make their dreams come true.
 
-IAU NOC Mauritius encourages everyone to participate in the upcoming **2022 edition of the Telescopes for All** and other similar events.
+IAU NOC Mauritius thanks all those who submitted their application and encourages more people to participate in the upcoming 2022 edition of the _"Telescopes for All"_ and other similar events.
 
 _Article: Farheen Hosanee_ (Member of IAU NOC Mauritius).
 
@@ -29,6 +29,6 @@ _Illustrations_: Tasneem Rossenkhan _(Top)_ and Arvind Ramessur _(Bottom)_
 
 _Local Publication_: [newsmoris.com]()
 
-References: Telescopes for All:[ Edition 2020](https://www.iau.org/news/announcements/detail/ann20026/ "Edition 2020"), [Edition 2021](https://www.iau.org/public/telescopecollaboration/ "Edition 2021")
+_References:_ Telescopes for All:[ Edition 2020](https://www.iau.org/news/announcements/detail/ann20026/ "Edition 2020") and [Edition 2021](https://www.iau.org/public/telescopecollaboration/ "Edition 2021")
 
 ![](/uploads/2022/02/02/800px.png)
