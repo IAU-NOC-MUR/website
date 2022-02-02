@@ -26,3 +26,5 @@ IAU NOC Mauritius encourages everyone to participate in the upcoming 2022 editio
 For continuous news and updates, follow us on Facebook [https://bit.ly/iau-mur-fb.](https://bit.ly/iau-mur-fb. "https://bit.ly/iau-mur-fb.")
 
 Publication: [newsmoris.com]()
+
+![](/uploads/2022/02/02/0.png)
