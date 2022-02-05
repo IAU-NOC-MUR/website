@@ -16,13 +16,13 @@ His Honours degree was focused on investigating the readiness (in terms of anten
 
 For his research Master’s degree project, Arvind has specialised in using the Very Long Baseline Interferometry (VLBI) Technique to shed light on the geometrical nature and evolution of extragalactic jets at different radio frequencies and epochs. The VLBI technique is a powerful tool used by Radio Astronomers to observe the nucleus of distant bright galaxies in unprecedented detail and to create images of regions small enough to change structure on human time scales. The reason why Arvind ventured into Astronomy is that he believes that it is a field that can give us a different perspective on the way we see the world and reveal unexpected phenomena in the universe that can enthrall and challenge us.
 
-> **”_Science isn’t finished until it’s communicated_”**- Sir Mark Walport (U.K. Government Chief Scientific Adviser).
+> ##### **”_Science isn’t finished until it’s communicated_”** - Sir Mark Walport (U.K. Government Chief Scientific Adviser)
 
 Arvind is also active in astronomy outreach programmes and science communication to help the general public understand the nuances and complexities of astronomy easily and effectively along with its importance in our daily lives. As a Mauritian Astronomer and a Toastmaster (Past President of [_Aurora Toastmasters Club_](https://aurora.toastmastersclubs.org/awards_2019_20.html) - Mauritius), Arvind is often invited to deliver talks on Astronomy to college students (e.g., Loretto Rose-Hill College - 2019; St. Mary’s West College - 2020) as well as educators, university students, and professionals in NGOs.
 
 Outside of research, his interests are photography, traveling, woodworking, bodybuilding, public speaking, and graphics designing (Logo Designer of the [_International Astrostatistics Association_](http://iaa.mi.oa-brera.inaf.it/IAA/home.html))
 
-**List of Publications (Selected):**
+##### **List of Publications (Selected):**
 
 **Ramessur, A.**, [Bietenholz, M. F., Leeuw, L. L., Bartel, N. 2015, IAU, 313, 388.](https://doi.org/10.1017/S1743921315002562) - _Cambridge University Press_: March 24, 2015.
 
