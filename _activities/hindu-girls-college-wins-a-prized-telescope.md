@@ -24,12 +24,12 @@ Mrs. Ramsurren, a Physics educator, led the Hindu Girls’ College proposal. Dur
 
 IAU NOC Mauritius thanks all those who submitted their application and encourages more people to participate in the upcoming 2022 edition of the _"Telescopes for All"_ and other similar events.
 
-_Article: Farheen Hosanee_ (Member of IAU NOC Mauritius).
+**_Article_**_: Farheen Hosanee_ (Member of IAU NOC Mauritius).
 
-_Illustrations_: Tasneem Rossenkhan _(Top)_ and Arvind Ramessur _(Bottom)_
+**_Illustrations_**: Tasneem Rossenkhan _(Top)_ and Arvind Ramessur _(Bottom)_
 
-_Local Publication_: [newsmoris.com]()
+**_Local Publication_**: [newsmoris.com]()
 
-_References:_ Telescopes for All:[ Edition 2020](https://www.iau.org/news/announcements/detail/ann20026/ "Edition 2020") and [Edition 2021](https://www.iau.org/public/telescopecollaboration/ "Edition 2021")
+**_References_**_:_ Telescopes for All:[ Edition 2020](https://www.iau.org/news/announcements/detail/ann20026/ "Edition 2020") and [Edition 2021](https://www.iau.org/public/telescopecollaboration/ "Edition 2021")
 
 ![](/uploads/2022/02/05/700px.png)
