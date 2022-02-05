@@ -9,7 +9,6 @@ title: Telescopes for All 2021
 sub_heading: Hindu Girls' College Wins a Prized Telescope
 banner_image: "/uploads/2022/02/05/2021_women_and_girls_in_astronomy.jpeg"
 slug: ''
-published: false
 
 ---
 The **Hindu Girls’ College** won one of the 12 Telescopes in the 2021 edition of the _"Telescopes for All"_ project. The 2021 _"Telescopes for All"_ project received 225 applications from 54 countries. The proposals were selected with the active support of the National Outreach Coordinators (IAU NOCs). The telescope awarded to Hindu Girls’ College is an Optical BRESSER telescope that can provide incredible views of the moon and planets. Astronauts, including Nobel Prize winners, signed the telescope. Because of the Covid-19 pandemic, a digital camera was supplied with the telescope. This will allow schools to conduct observations and share them safely with everyone.
