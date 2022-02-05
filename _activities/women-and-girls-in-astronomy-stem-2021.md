@@ -12,7 +12,7 @@ banner_image: "/uploads/2022/01/28/fb-page-cover_march_2021.png"
 slug: ''
 
 ---
-_Women and Girls in Astronomy/STEM 2021_ is a **Global Science Communication Project** of the International Astronomical Union (IAU) that aims to promote and highlight the role of women in advancing science and encouraging young people to consider careers in astronomy. The IAU strongly encourages activities throughout the year, with a particular focus on two International Days adopted by the United Nations: the International Day of Women and Girls in Science on 11 February and International Women’s Day on 8 March. 
+_Women and Girls in Astronomy/STEM 2021_ is a **Global Science Communication Project** of the International Astronomical Union (IAU) that aims to promote and highlight the role of women in advancing science and encouraging young people to consider careers in astronomy. The IAU strongly encourages activities throughout the year, with a particular focus on two International Days adopted by the United Nations: the _International Day of Women and Girls in Science_ on 11 February and _International Women’s Day_ on 8 March.
 
 During the month of March 2021, four of our NOC Members participated in the global project for Women and Girls in Astronomy where they shared their personal messages to all girls and women who want to pursue Astronomy/STEM-related professional careers and/or get involved in Astronomy outreach.
 
@@ -39,6 +39,6 @@ The Women and Girls in Astronomy/STEM 2021 project for Mauritius was spearheaded
 
 **_Video Editing_**_:_ Arvind Ramessur
 
-**_Publications_**_:_ IAU-NOC Mauritius Youtube Channel, Instagram page, and by [IAU-OAO](https://www.facebook.com/IAUoutreach). 
+**_Publications_**_:_ IAU-NOC Mauritius Youtube Channel, Instagram page, and by [IAU-OAO](https://www.facebook.com/IAUoutreach).
 
 **_Reference_**_:_ [https://www.iau.org/public/women-and-girls-in-astronomy/](https://www.iau.org/public/women-and-girls-in-astronomy/ "https://www.iau.org/public/women-and-girls-in-astronomy/")
