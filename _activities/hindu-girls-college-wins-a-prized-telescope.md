@@ -17,7 +17,7 @@ The **Hindu Girls’ College** won one of the 12 Telescopes in the 2021 edition 
 
 ![](/uploads/2022/02/05/t4all_illustration_tasneem_modified.png)
 
-The Office for Astronomy Outreach (OAO) of the International Astronomical Union (IAU), along with the _Stars Shine for Everyone_ - [SSVI](http://www.ssvi.be/) and Leiden University/Universe Awareness - [UNAWE](https://www.unawe.org/) initiated this annual global project “_Telescope for All_”. The mission of the OAO is to engage everyone in astronomy through access to astronomical information and communication of the science of astronomy. This is implemented through a network of IAU NOCs.
+The Office for Astronomy Outreach (OAO) of the International Astronomical Union (IAU), along with the _Stars Shine for Everyone_ - [SSVI](http://www.ssvi.be/) and Leiden University/Universe Awareness - [UNAWE](https://www.unawe.org/) initiated this annual global project “_Telescope for All_”. The mission of the OAO is to engage everyone in astronomy through access to astronomical information and communication of the science of astronomy. This is implemented through a network of IAU NOCs. 
 
 The IAU NOC for Mauritius received nine (9) proposals. The proposals came from academic and non-academic institutions, including NGOs in Mauritius. Each was reviewed and endorsed by a panel of four (4) judges. The project provides opportunities for children, adults, and educators to expand their knowledge in Science, Technology, Engineering, and Mathematics (STEM). The IAU NOC team for Mauritius volunteers wants to raise awareness of equal opportunities in pursuing STEM careers.
 
