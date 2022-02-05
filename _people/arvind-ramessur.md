@@ -24,9 +24,9 @@ Outside of research, his interests are photography, traveling, woodworking, body
 
 **List of Publications (Selected):**
 
-**Ramessur, A.**, [Bietenholz, M. F., Leeuw, L. L., Bartel, N. 2015, IAU, 313, 388.](https://doi.org/10.1017/S1743921315002562) - _Cambridge University Press_: March 24, 2015. 
+**Ramessur, A.**, [Bietenholz, M. F., Leeuw, L. L., Bartel, N. 2015, IAU, 313, 388.](https://doi.org/10.1017/S1743921315002562) - _Cambridge University Press_: March 24, 2015.
 
-**Ramessur, A.**, [“Astrophysical jets in a distant galaxy could teach us physics”](https://mg.co.za/article/2014-08-18-astrophysical-jets-in-distant-galaxy-could-teach-us-physics) -  _Mail &Guardian_: August 22, 2014. 
+**Ramessur, A.**, [“Astrophysical jets in a distant galaxy could teach us physics”](https://mg.co.za/article/2014-08-18-astrophysical-jets-in-distant-galaxy-could-teach-us-physics) -  _Mail &Guardian_: August 22, 2014.
 
 **Ramessur, A.**, [“Examining High Energy Jets”](https://issuu.com/wheatlands/docs/ska_digital) _Issuu by Munyaradzi Makoni:_ December 8, 2014. SKA Postgraduate Bursary Conference.
 
@@ -36,4 +36,6 @@ Outside of research, his interests are photography, traveling, woodworking, body
 
 **Interview**: [“South Africa opens new ‘eye’ on southern skies”](https://tinyurl.com/ioppublications) -  _Institute of Physics (IOP), Telescopes and Space Mission_: June 06, 2018
 
-![](/uploads/2022/02/05/img_7542_700.png)          Image credit: [IAU OAO](https://www.iau.org/public/)
+![](/uploads/2022/02/05/img_7542_700.png)          
+
+Image credit: [IAU OAO](https://www.iau.org/public/)
