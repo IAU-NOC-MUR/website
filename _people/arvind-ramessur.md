@@ -22,7 +22,7 @@ For his research Master’s degree project, Arvind has specialised in using the 
 
 Arvind is also active in astronomy outreach programmes and science communication to help the general public understand the nuances and complexities of astronomy easily and effectively along with its importance in our daily lives. As a Mauritian Astronomer and a Toastmaster (Past President of [_Aurora Toastmasters Club_](https://aurora.toastmastersclubs.org/awards_2019_20.html) - Mauritius), Arvind is often invited to deliver talks on Astronomy to college students (e.g., Loretto Rose-Hill College - 2019; St. Mary’s West College - 2020) as well as educators, university students, and professionals in NGOs.
 
-Outside of research, his interests are photography, traveling, woodworking, bodybuilding, public speaking, and graphics designing (Logo Designer of the [_International Astrostatistics Association_](http://iaa.mi.oa-brera.inaf.it/IAA/home.html))
+Outside of research, his interests are photography, travelling, coaching, bodybuilding, woodworking, public speaking, and graphics designing (Logo Designer of the [_International Astrostatistics Association_](http://iaa.mi.oa-brera.inaf.it/IAA/home.html))
 
 ### **List of Publications (Selected):**
 
