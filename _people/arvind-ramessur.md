@@ -16,7 +16,7 @@ His Honours degree was focused on investigating the readiness (in terms of anten
 
 For his research Master’s degree project, Arvind has specialised in using the Very Long Baseline Interferometry (VLBI) Technique to shed light on the geometrical nature and evolution of extragalactic jets at different radio frequencies and epochs. The VLBI technique is a powerful tool used by Radio Astronomers to observe the nucleus of distant bright galaxies in unprecedented detail and to create images of regions small enough to change structure on human time scales. The reason why Arvind ventured into Astronomy is that he believes that it is a field that can give us a different perspective on the way we see the world and reveal unexpected phenomena in the universe that can enthrall and challenge us.
 
-> #### **”_Science isn’t finished until it’s communicated_”**
+> ### **”_Science isn’t finished until it’s communicated_”**
 >
 > Sir Mark Walport (U.K. Government Chief Scientific Adviser)
 
@@ -24,13 +24,13 @@ Arvind is also active in astronomy outreach programmes and science communication
 
 Outside of research, his interests are photography, traveling, woodworking, bodybuilding, public speaking, and graphics designing (Logo Designer of the [_International Astrostatistics Association_](http://iaa.mi.oa-brera.inaf.it/IAA/home.html))
 
-##### **List of Publications (Selected):**
+### **List of Publications (Selected):**
 
-**Ramessur, A.**, [Bietenholz, M. F., Leeuw, L. L., Bartel, N. 2015, IAU, 313, 388.](https://doi.org/10.1017/S1743921315002562) - _Cambridge University Press_: March 24, 2015.
+**Ramessur, A.**, [Bietenholz, M. F., Leeuw, L. L., Bartel, N. 2015, IAU, 313, 388.](https://doi.org/10.1017/S1743921315002562) - _Cambridge University Press_: March 24, 2015
 
-**Ramessur, A.**, [“Astrophysical jets in a distant galaxy could teach us physics”](https://mg.co.za/article/2014-08-18-astrophysical-jets-in-distant-galaxy-could-teach-us-physics) -  _Mail &Guardian_: August 22, 2014.
+**Ramessur, A.**, [“Astrophysical jets in a distant galaxy could teach us physics”](https://mg.co.za/article/2014-08-18-astrophysical-jets-in-distant-galaxy-could-teach-us-physics) -  _Mail&Guardian_: August 22, 2014
 
-**Ramessur, A.**, [“Examining High Energy Jets”](https://issuu.com/wheatlands/docs/ska_digital) _Issuu by Munyaradzi Makoni:_ December 8, 2014. SKA Postgraduate Bursary Conference.
+**Ramessur, A.**, [“Examining High Energy Jets”](https://issuu.com/wheatlands/docs/ska_digital) _Issuu by Munyaradzi Makoni:_ December 8, 2014. SKA Postgraduate Bursary Conference
 
 **Ramessur, A**., [“Fourier-plane Modeling of the Jet in the nucleus of the galaxy M81”](http://hdl.handle.net/10500/23817) - _University of South Africa (UNISA)_
 
