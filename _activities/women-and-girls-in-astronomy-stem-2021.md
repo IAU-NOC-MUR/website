@@ -8,7 +8,7 @@ tags:
 status: Past
 title: Women and Girls in Astronomy/STEM 2021
 sub_heading: Global project for Women and Girls in Astronomy
-banner_image: "/uploads/2022/01/28/fb-page-cover_march_2021.png"
+banner_image: "/uploads/2022/02/05/2021_women_girls_in_astronomy-stem.png"
 slug: ''
 
 ---
