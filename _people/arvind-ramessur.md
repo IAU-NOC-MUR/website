@@ -22,6 +22,10 @@ Arvind is also active in astronomy outreach programmes and science communication
 
 Outside of research, his interests are photography, traveling, woodworking, bodybuilding, public speaking, and graphics designing (Logo Designer of the [_International Astrostatistics Association_](http://iaa.mi.oa-brera.inaf.it/IAA/home.html))
 
+![](/uploads/2022/02/05/hnet-com-image.jpg)
+
+![](/uploads/2022/02/05/img_7542.jpg)
+
 **List of Publications (Selected):**
 
 **Ramessur, A.**, [Bietenholz, M. F., Leeuw, L. L., Bartel, N. 2015, IAU, 313, 388. Published by Cambridge University
