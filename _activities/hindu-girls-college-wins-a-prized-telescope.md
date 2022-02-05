@@ -4,6 +4,7 @@ tags:
 - "#Telescopes4All"
 - " #IAUoutreach"
 - " #NOCMauritius"
+- "#HinduGirlsCollege"
 status: Past
 title: Telescopes for All 2021
 sub_heading: Hindu Girls' College Wins a Prized Telescope
