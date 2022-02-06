@@ -19,14 +19,10 @@ menu:
     weight: 3
 
 ---
-**_What are the IAU outreach initiatives?_**
+The IAU outreach initiatives are IAU-driven outreach programmes that engage the public in astronomy through access to astronomical information and the communication of the science of astronomy. These programmes encourage astronomical outreach through IAU members' engagement with the public, relationships between professional-amateur, and citizen science activities. These initiatives strive to include every one of different backgrounds and abilities to participate and learn about the science of astronomy.
 
-The IAU outreach initiatives are IAU- driven outreach programmes that engage the public in astronomy through access to astronomical information and the communication of the science of astronomy. These programmes encourage astronomical outreach through IAU members' engagement with the public, relationships between professional-amateur, and citizen science activities. These initiatives strive to include every one of different backgrounds and abilities to participate and learn about the science of astronomy.
+The vision of the IAU Office for Astronomy Outreach (OAO) is to bring astronomy to all. The OAO welcomes collaborations with astronomy enthusiasts who share the same goals of creating a diverse and inclusive community.
 
-**_Who can join the IAU outreach initiatives?_**
-
-Anyone can join the IAU outreach initiatives. The vision of the IAU Office for Astronomy Outreach (OAO) is to bring astronomy to all. The OAO welcomes collaborations with astronomy enthusiasts who share the same goals of creating a diverse and inclusive community.
-
-**_”_**_The **International Astronomical Union (IAU)** is the largest international organisation of professional astronomers. The mission of the IAU is to promote and safeguard the science of astronomy in all its aspects (research, communication, education, and development) through international cooperation.”_
+_”The **International Astronomical Union (IAU)** is the largest international organisation of professional astronomers. The mission of the IAU is to promote and safeguard the science of astronomy in all its aspects (research, communication, education, and development) through international cooperation.”_
 
 More information about the IAU-NOC can be found [here](https://www.iau.org/public/noc/ "IAU-NOC").
