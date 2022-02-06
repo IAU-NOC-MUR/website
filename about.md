@@ -27,10 +27,6 @@ The IAU outreach initiatives are IAU- driven outreach programmes that engage the
 
 Anyone can join the IAU outreach initiatives. The vision of the IAU Office for Astronomy Outreach (OAO) is to bring astronomy to all. The OAO welcomes collaborations with astronomy enthusiasts who share the same goals of creating a diverse and inclusive community.
 
-**_”The International Astronomical Union (IAU) is the largest international organisation of professional astronomers. The mission of the IAU is to promote and safeguard the science of astronomy in all its aspects (research, communication, education, and development) through international cooperation.”_**
-
-**_Who runs the IAU outreach initiatives?_**
-
-Since 2012, the IAU outreach initiatives have been centrally coordinated by the IAU Office for Astronomy Outreach (OAO). The OAO is a joint project of the International Astronomical Union (IAU) and the National Astronomical Observatory of Japan (NAOJ), under the auspices of the National Institutes of Natural Sciences (NINS) of Japan. The OAO is based in Tokyo, on the NAOJ Mitaka Campus. The OAO team coordinates a comprehensive programme of outreach initiatives to reach targeted audiences worldwide. These initiatives are disseminated and implemented at a national level with the IAU National Outreach Coordinators to ensure maximum reach.
+**_”_**_The **International Astronomical Union (IAU)** is the largest international organisation of professional astronomers. The mission of the IAU is to promote and safeguard the science of astronomy in all its aspects (research, communication, education, and development) through international cooperation.”_
 
 More information about the IAU-NOC can be found [here](https://www.iau.org/public/noc/ "IAU-NOC").
