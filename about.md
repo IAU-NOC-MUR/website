@@ -1,7 +1,7 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2022/02/06/noc_cover_web1.png"
+banner_image: "/uploads/2022/02/06/noc_cover_web01.png"
 heading: About IAU NOC Mauritius
 sub_heading: ''
 layout: landing-page
