@@ -33,3 +33,5 @@ IAU NOC Mauritius thanks all those who submitted their application and encourage
 **_References_**_:_ Telescopes for All:[ Edition 2020](https://www.iau.org/news/announcements/detail/ann20026/ "Edition 2020") and [Edition 2021](https://www.iau.org/public/telescopecollaboration/ "Edition 2021")
 
 ![](/uploads/2022/02/05/700px.png)
+
+_The IAU Outreach Global Projects are annual international outreach activities officially endorsed by the IAU._ 
