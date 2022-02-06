@@ -43,4 +43,4 @@ The Women and Girls in Astronomy/STEM 2021 project for Mauritius was spearheaded
 
 **_Reference_**_:_ [https://www.iau.org/public/women-and-girls-in-astronomy/](https://www.iau.org/public/women-and-girls-in-astronomy/ "https://www.iau.org/public/women-and-girls-in-astronomy/")
 
-_The IAU Outreach Global Projects are annual international outreach activities officially endorsed by the IAU._ 
+_The IAU Outreach Global Projects are annual international outreach activities officially endorsed by the IAU._
