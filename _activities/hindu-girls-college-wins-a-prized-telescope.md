@@ -34,4 +34,4 @@ IAU NOC Mauritius thanks all those who submitted their application and encourage
 
 ![](/uploads/2022/02/05/700px.png)
 
-_The IAU Outreach Global Projects are annual international outreach activities officially endorsed by the IAU._ 
+_The IAU Outreach Global Projects are annual international outreach activities officially endorsed by the IAU._
