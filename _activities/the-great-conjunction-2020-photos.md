@@ -10,20 +10,45 @@ title: The Great Conjunction 2020 - Photos
 sub_heading: Jupiter and Saturn (21st December)
 banner_image: "/uploads/2022/02/09/gc_2020_cover_web2.png"
 slug: ''
+published: false
 
 ---
+
+### **National Photos**
+
+A vast majority of Mauritian public participated during the rare spectacular “Christmas Star” event of December 21st. After gazing skyward to witness and capture photos of this grand event, 7 certificates of appreciation were awarded from IAU NOC Mauritius. 
+
+Our participants are namely:
+
+| --- | --- | 
+| Yashweena Takoory | Coromandel |
+| Pooja Boodhoo | Petit Bel Air |
+| Ishfaaq Peerally | Flic-en-Flac |
+| Astrid Thelemaque | flic-en-Flac |
+| Akish Mangaram | Tamarin |
+| Adeev Kaharee | Goodlands |
+| Fariss Baboo | Terre Rouge |
+
+### Table title
+
+| Header | Header | Header  |
+| ------ | ------ | ------- |
+| Cell   | Cell   | Cell   |
+| Cell   | Cell   | Cell   |
+| Cell   | Cell   | Cell   |
+
 ### **International Photos**
 
-Here is a stunning great conjunction photograph to brighten spirits; the sight of a the moment-in-a-life time occasion - “Christmas Star”; credit: [**larsleberphotography**](https://www.instagram.com/larsleberphotography/) 
+Here is a stunning great conjunction photograph to brighten spirits; the sight of a the moment-in-a-life time occasion - “Christmas Star”; credit: [**larsleberphotography**](https://www.instagram.com/larsleberphotography/)
 
 ![](/uploads/2022/02/09/christmas_star1_500px.png)
 
 The Great Conjunction in radio captured by the Very Large Array, VLA at a wavelength of 2 cm (15 GHz). While Saturn is similar to optical _(left)_, Jupiter’s radio emission _(right)_ originates from charged particles accelerated in the magnetic fields around the planet which are being supplied by its volcanic moon, Io. This causes more emissions associated with the magnetic field compared to Saturn.
 
 ![](/uploads/2022/02/09/vla_700px.png)  
- Credits: NRAO/AUI/NSD, I. de Pater, and Nienke van der Marel.
+Credits: NRAO/AUI/NSD, I. de Pater, and Nienke van der Marel.
 
-For more info, click [here](https://public.nrao.edu/ask/radio-emission-properties-of-jupiter-and-saturn/?fbclid=IwAR0oKSSiufQmhxpwCLNNdWPlUthqfnkfYhhJTHOzeLDDNCYqpC-pvqIiIuc "radio"). 
+For more info, click [here](https://public.nrao.edu/ask/radio-emission-properties-of-jupiter-and-saturn/?fbclid=IwAR0oKSSiufQmhxpwCLNNdWPlUthqfnkfYhhJTHOzeLDDNCYqpC-pvqIiIuc "radio").
 
 ### **Is this the only one?**
 
