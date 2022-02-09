@@ -81,3 +81,7 @@ All planets go around the Sun in their orbits which are slightly inclined to one
 4. Sometimes, the Moon and Sun are in conjunction too. We call these events, lunar and solar eclipses.
 5. The 21 Dec 2020 great conjunction will be so close that you can see both planets in the same field of view in a small telescope.
 6. _Syzygy_ (pronunciation: “SIZ-eh-gee” is the name for the nearly straight-line configuration of three celestial bodies (e.g., Sun, Moon, and Earth during a solar and lunar eclipse) in a gradational system.
+
+**Publications** of our image by public and media platforms: [mopay.com](http://mopay.com) and [Astronomers Without Borders](https://www.astronomerswithoutborders.org/home "Astronomers Without Borders").
+
+**Project Leader**: Arvind Ramessur
