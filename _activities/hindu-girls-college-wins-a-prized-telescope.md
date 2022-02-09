@@ -6,7 +6,7 @@ tags:
 - " #NOCMauritius"
 - "#HinduGirlsCollege"
 status: Past
-title: Telescopes for All 2021
+title: Telescopes for All 2021 (Eng)
 sub_heading: Hindu Girls' College (Astronomy Club) Wins a Prized Telescope
 banner_image: "/uploads/2022/02/05/2021_women_and_girls_in_astronomy.jpeg"
 slug: ''
