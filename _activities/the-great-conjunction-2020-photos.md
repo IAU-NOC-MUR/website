@@ -10,21 +10,20 @@ title: The Great Conjunction 2020 - Photos
 sub_heading: Jupiter and Saturn (21st December)
 banner_image: "/uploads/2022/02/09/gc_2020_cover_web2.png"
 slug: ''
-published: false
 
 ---
 ### **National Photos (Public)**
 
-The majority of the Mauritian public participated during the rare spectacular “_Christmas Star_” event of December 21st. After gazing skyward to witness and capture photos of this grand event, 7 digital certificates of appreciation were awarded from IAU NOC Mauritius.
+The majority of the Mauritian public participated during the rare spectacular “_Christmas Star_” event of December 21st. We had over 1000 public engagements reached and our Facebook page grew exponentially from 220 (18 Dec 2020) to 700+ in likes and followers. After gazing skyward to witness and capture photos of this grand event, 7 digital certificates of appreciation were awarded from IAU NOC Mauritius.
 
 **The recipients are namely:**
 
 * Yashweena Takoory (Coromandel)
-* Pooja Boodhoo (Petit Bel AiR) 
-* Ishfaaq Peerally (Flic-en-Flac) 
-* Astrid Thelemaque (Flic-en-Flac) 
-* Akish Mangaram (Tamarin) 
-* Adeev Kaharee (Goodlands) 
+* Pooja Boodhoo (Petit Bel AiR)
+* Ishfaaq Peerally (Flic-en-Flac)
+* Astrid Thelemaque (Flic-en-Flac)
+* Akish Mangaram (Tamarin)
+* Adeev Kaharee (Goodlands)
 * Fariss Baboo (Terre Rouge)
 
 ![](/uploads/2022/02/09/dec-21-2020_gc_final_poster_700px.png)
@@ -32,6 +31,16 @@ The majority of the Mauritian public participated during the rare spectacular �
 Poster Credit: Arvind Ramessur
 
 ### **National Photos (NOC Mauritius)**
+
+The Great Conjunction event photo for NOC Mauritius was captured by Arvind Ramessur from Long Mountain using a DLSR camera (EF 75 - 300 mm Zoom lens) at 21h15. 
+
+![](/uploads/2022/02/09/21-dec-2020_gc_during_poster_700px.png)
+
+[Dr. Henry Throop](https://science.nasa.gov/researchers/sara/program-officers-list/henry-throop "Henry") (Program Officer at [NASA](https://www.nasa.gov/ "NASA") Headquarters) provided his expert opinion on our photo captured from Mauritius. After running some calculations for the satellites, it was found that the Jovian moon, Io, was hidden (either in front of or behind) Jupiter. What we saw is Ganymede and Callisto on top; Europa and the Hipparcos star (#HIP99134) on the bottom. We could not see Titan, which should be around the ’S’ of Saturn, from our DSLR camera.
+
+![](/uploads/2022/02/09/gc2020_henry_700px.png)
+
+Image Credits: _Dr. Henry Throop (Analysis of the photo captured by Arvind Ramessur for IAU NOC Mauritius)_
 
 ### **International Photos**
 
@@ -42,7 +51,7 @@ Here is a stunning great conjunction photograph to brighten spirits; the sight o
 The Great Conjunction in radio captured by the Very Large Array, VLA at a wavelength of 2 cm (15 GHz). While Saturn is similar to optical _(left)_, Jupiter’s radio emission _(right)_ originates from charged particles accelerated in the magnetic fields around the planet which are being supplied by its volcanic moon, Io. This causes more emissions associated with the magnetic field compared to Saturn.
 
 ![](/uploads/2022/02/09/vla_700px.png)  
-Credits: NRAO/AUI/NSD, I. de Pater, and Nienke van der Marel.
+Credits: _NRAO/AUI/NSD, I. de Pater, and Nienke van der Marel._
 
 For more info, click [here](https://public.nrao.edu/ask/radio-emission-properties-of-jupiter-and-saturn/?fbclid=IwAR0oKSSiufQmhxpwCLNNdWPlUthqfnkfYhhJTHOzeLDDNCYqpC-pvqIiIuc "radio").
 
