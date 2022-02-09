@@ -13,7 +13,7 @@ slug: ''
 published: false
 
 ---
-### **National Photos**
+### **National Photos (Public)**
 
 The majority of the Mauritian public participated during the rare spectacular “_Christmas Star_” event of December 21st. After gazing skyward to witness and capture photos of this grand event, 7 digital certificates of appreciation were awarded from IAU NOC Mauritius.
 
@@ -31,9 +31,11 @@ The majority of the Mauritian public participated during the rare spectacular �
 
 Poster Credit: Arvind Ramessur
 
+### **National Photos (NOC Mauritius)**
+
 ### **International Photos**
 
-Here is a stunning great conjunction photograph to brighten spirits; the sight of a the moment-in-a-life time occasion - “Christmas Star”; credit: [**larsleberphotography**](https://www.instagram.com/larsleberphotography/)
+Here is a stunning great conjunction photograph to brighten spirits; the sight of a the moment-in-a-life time occasion - “Christmas Star”; photo credit: [**larsleberphotography**](https://www.instagram.com/larsleberphotography/)
 
 ![](/uploads/2022/02/09/christmas_star1_500px.png)
 
