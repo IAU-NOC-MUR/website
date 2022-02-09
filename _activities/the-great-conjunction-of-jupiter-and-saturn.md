@@ -44,3 +44,5 @@ The conjunction of Jupiter-Saturn with a minimum separation of 0.2 degrees can b
 Wishing you clear skies and wide eyes!
 
 ![](/uploads/2022/02/09/dec-21-2020-gc_before_poster_700px.png)
+
+**Poster illustration**: Arvind Ramessur
