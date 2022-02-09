@@ -7,8 +7,8 @@ tags:
 - " #Saturn"
 - "#Jupiter"
 status: Past
-title: 'The Great Conjunction of Jupiter and Saturn '
-sub_heading: 21st December 2020
+title: The Great Conjunction 2020
+sub_heading: Jupiter and Saturn (21st December)
 banner_image: "/uploads/2022/02/09/gc_2020_cover_web1.png"
 slug: ''
 
