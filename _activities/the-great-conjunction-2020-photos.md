@@ -13,29 +13,21 @@ slug: ''
 published: false
 
 ---
-
 ### **National Photos**
 
-A vast majority of Mauritian public participated during the rare spectacular “Christmas Star” event of December 21st. After gazing skyward to witness and capture photos of this grand event, 7 certificates of appreciation were awarded from IAU NOC Mauritius. 
+A vast majority of the Mauritian public participated during the rare spectacular “_Christmas Star_” event of December 21st. After gazing skyward to witness and capture photos of this grand event, 7 certificates of appreciation were awarded from IAU NOC Mauritius.
 
 Our participants are namely:
 
-| --- | --- | 
-| Yashweena Takoory | Coromandel |
-| Pooja Boodhoo | Petit Bel Air |
-| Ishfaaq Peerally | Flic-en-Flac |
-| Astrid Thelemaque | flic-en-Flac |
-| Akish Mangaram | Tamarin |
-| Adeev Kaharee | Goodlands |
-| Fariss Baboo | Terre Rouge |
-
-### Table title
-
-| Header | Header | Header  |
-| ------ | ------ | ------- |
-| Cell   | Cell   | Cell   |
-| Cell   | Cell   | Cell   |
-| Cell   | Cell   | Cell   |
+| Names | Locations |
+| ------ | ------ | 
+ | Yashweena Takoory | Coromandel | 
+ | Pooja Boodhoo | Petit Bel Air |
+ | Ishfaaq Peerally | Flic-en-Flac | 
+ | Astrid Thelemaque | flic-en-Flac |
+ | Akish Mangaram | Tamarin | 
+ | Adeev Kaharee | Goodlands |
+ | Fariss Baboo | Terre Rouge |
 
 ### **International Photos**
 
