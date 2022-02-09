@@ -5,7 +5,7 @@ tags:
 - " #NOCMauritius"
 - " #IAUoutreach"
 - " #HinduGirlsCollege"
-status: Ongoing
+status: Past
 title: Télescopes Pour Tous 2021 (Fr)
 sub_heading: Le Hindu Girls' College (club d'astronomie) remporte un  télescope très
   prisé
