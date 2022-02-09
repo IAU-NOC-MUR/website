@@ -40,7 +40,7 @@ The Great Conjunction event photo for NOC Mauritius was captured by Arvind Rames
 
 ![](/uploads/2022/02/09/gc2020_henry_700px.png)
 
-<p style=" font-size: 80%;font-family: Verdana, Arial,sans-serif; text-align: center; ">Image Credits: _Dr. Henry Throop - Analysis of the photo captured by Arvind Ramessur for IAU NOC Mauritius_</p>
+<p style=" font-size: 80%;font-family: Arial,sans-serif; text-align: center;">Image Credits: _Dr. Henry Throop - Analysis of the photo captured by Arvind Ramessur for IAU NOC Mauritius_</p>
 
 ### **International Photos**
 
