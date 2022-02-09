@@ -6,7 +6,7 @@ banner_image: "/uploads/2019/05/22/CgBLLJvXEAA6XBF.jpg"
 sub_heading: 'The NameExoWorlds contest provided the first opportunity for the public
   to name exoplanets, and their stars. '
 slug: ''
-status: Ongoing
+status: Past
 
 ---
 ### Language : **English 🇬🇧** | [Français 🇫🇷](/activities/nameexoworlds_fr)
