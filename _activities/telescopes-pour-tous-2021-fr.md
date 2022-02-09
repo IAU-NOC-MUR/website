@@ -11,7 +11,6 @@ sub_heading: Le Hindu Girls' College (club d'astronomie) remporte un  télescope
   prisé
 banner_image: "/uploads/2022/02/05/2021_women_and_girls_in_astronomy.jpeg"
 slug: ''
-published: false
 
 ---
 Le **Hindu Girls' College** a gagné l'un des 12 télescopes de l'édition 2021 du projet **_Telescopes for All_.** Le projet Télescopes pour tous 2021 a reçu 225 candidatures, provenant de 54 pays. Les propositions ont été sélectionnées avec le soutien actif des coordinateurs nationaux de sensibilisation (CNS de l'AIU). Le télescope attribué au Hindu Girls' College est un télescope optique BRESSER qui offre des vues incroyables de la lune et des planètes. Des astronautes, dont des lauréats du prix Nobel, ont signé ce télescope. En raison de la pandémie du Covid-19, un appareil photo numérique a été fourni avec le télescope. Cela permettra aux écoles d’éffectuer des observations et de les partager en toute sécurité avec tout le monde.
