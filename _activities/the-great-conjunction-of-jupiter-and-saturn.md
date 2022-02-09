@@ -15,7 +15,7 @@ slug: ''
 ---
 Astronomy enthusiasts are in for an end-of-year extravagance. December 21st will be memorable and remarkable for observational and amateur astronomers! What has become known prevalently as the “_Christmas Star_”, in reference to the Star of Bethlehem, is an exclusively vivacious planetary conjunction easily observable in the evening sky. The most celebrated planets, Jupiter and Saturn, will be exceptionally close as seen from Earth (separated by a mere 0.1°; this is just a fifth of the full moon’s size!) and is referred to as ‘**Great Conjunction – 2020**’. This will be the closest Jupiter/Saturn conjunction since the year 1623 BC!
 
-### **What is a Great Conjunction?** 
+### **What is a Great Conjunction?**
 
 A “**great conjunction”** is a conjunction of the two biggest planets Jupiter and Saturn; it transpires when those planets appear unbelievably close to one another in the sky because they line up with Earth in their respective orbits. A conjunction of Jupiter and Saturn is comparatively sporadic and it happens about once every 20 years due to the combined effect of Jupiter's approximately 12-year orbital period and Saturn's approximately 30-year orbital period. For this reason, it is known as the great conjunction.
 
@@ -33,7 +33,7 @@ After this December 21, 2020 conjunction, the two planets will appear to trade p
 
 ### **How to Observe?**
 
-Find a spot with an unhindered vision of the sky, such as a field or park. Jupiter and Saturn are bright, so they can be conspicuous even from most cities. An hour after sunset, 15-20 degrees above the horizon, look to the southwestern sky. Jupiter will look like a bright star and be easily detectable. Saturn will be slightly fainter and will appear indistinctly above and to the left of Jupiter until Dec. 21, when Jupiter will surpass it and they will reverse positions in the sky.
+Find a spot with an unhindered vision of the sky, such as a field or park. Jupiter and Saturn are bright, so they can be conspicuous even from most cities. _An hour after sunset, 15-20 degrees above the horizon, look to the southwestern sky._ Jupiter will look like a bright star and be easily detectable. Saturn will be slightly fainter and will appear indistinctly above and to the left of Jupiter until Dec. 21, when Jupiter will surpass it and they will reverse positions in the sky.
 
 These planets can be seen with the unaided eye, but if you have binoculars or a small telescope, you may be able to see Jupiter’s four large moons orbiting the giant planet.
 
