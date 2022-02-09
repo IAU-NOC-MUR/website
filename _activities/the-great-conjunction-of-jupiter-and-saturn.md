@@ -46,3 +46,11 @@ Wishing you clear skies and wide eyes!
 ![](/uploads/2022/02/09/dec-21-2020-gc_before_poster_700px.png)
 
 **Poster illustration**: Arvind Ramessur
+
+### **How Jupiter “Laps” Saturn Every 20 Years**
+
+Each Earth year, **Saturn** completes about 12° of its counterclockwise orbit, around the Sun along the ecliptic (360° ÷ its orbital period of 29.5 Earth years); whereas **Jupiter**, on its speedier “inside lane”, completes approximately 30° for each Earth year (360o ÷ its orbital period of 11.9 Earth years).
+
+Therefore, in one Earth year, Jupiter closes the gap between itself and Saturn by about 18° (30° – 12° = 18°). So, in a period of 20 Earth years, Jupiter has orbited around for another pass of Saturn along the ecliptic (360° ÷ 18° per year = 20 years), thereby lapping the ringed planet once every 2 decades (20-years).
+
+Note: **_The conjunction has absolutely no harmful effect on Earth or on humans!_**
