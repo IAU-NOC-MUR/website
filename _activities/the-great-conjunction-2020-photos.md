@@ -19,15 +19,13 @@ A vast majority of the Mauritian public participated during the rare spectacular
 
 Our participants are namely:
 
-| Names | Locations |
-| ------ | ------ | 
- | Yashweena Takoory | Coromandel | 
- | Pooja Boodhoo | Petit Bel Air |
- | Ishfaaq Peerally | Flic-en-Flac | 
- | Astrid Thelemaque | flic-en-Flac |
- | Akish Mangaram | Tamarin | 
- | Adeev Kaharee | Goodlands |
- | Fariss Baboo | Terre Rouge |
+Yashweena Takoory (Coromandel) 
+Pooja Boodhoo (Petit Bel AiR)
+Ishfaaq Peerally (Flic-en-Flac)
+Astrid Thelemaque (Flic-en-FlaC)
+Akish Mangaram (Tamarin)
+Adeev Kaharee (Goodlands)
+Fariss Baboo (Terre Rouge)
 
 ### **International Photos**
 
