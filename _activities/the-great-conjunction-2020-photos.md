@@ -40,7 +40,7 @@ The Great Conjunction event photo for NOC Mauritius was captured by Arvind Rames
 
 ![](/uploads/2022/02/09/gc2020_henry_700px.png)
 
-<p style=" font-size: 60%;font-family: Verdana, Arial,sans-serif; text-align: center; ">Image Credits: _Dr. Henry Throop (Analysis of the photo captured by Arvind Ramessur for IAU NOC Mauritius)_</p>
+<p style=" font-size: 80%;font-family: Verdana, Arial,sans-serif; text-align: center; ">Image Credits: _Dr. Henry Throop - Analysis of the photo captured by Arvind Ramessur for IAU NOC Mauritius_</p>
 
 ### **International Photos**
 
@@ -50,7 +50,7 @@ Here is a stunning great conjunction photo to brighten spirits; the sight of the
 
 ![](/uploads/2022/02/09/christmas_star1_500px.png)
 
-<p style=" font-size: 50%;font-family: Verdana, Arial,sans-serif; text-align: center; ">Photo credit: [**larsleberphotography**](https://www.instagram.com/larsleberphotography/)</p>
+<p style=" font-size: 80%;font-family: Verdana, Arial,sans-serif; text-align: center; ">Photo credit: [**larsleberphotography**](https://www.instagram.com/larsleberphotography/)</p>
 
 #### Optical & Radio Image
 
@@ -77,7 +77,7 @@ On 21 December 2020, Jupiter and Saturn will appear exceptionally close as seen 
 
 29 May 2022 - Mars & Jupiter (0.6 deg separation).
 
-All planets go around the Sun in their orbits which are slightly inclined to one another. This is why the separation between the two planets is a bit different for every conjunction, depending on where they are in their orbits. For example, the conjunctions during 2000, 2020, 2040, 2060, and 2080 have separations of 1.2°, 0.1°, 1.2°, 1.2°, and 0.1° respectively. 
+All planets go around the Sun in their orbits which are slightly inclined to one another. This is why the separation between the two planets is a bit different for every conjunction, depending on where they are in their orbits. For example, the conjunctions during 2000, 2020, 2040, 2060, and 2080 have separations of 1.2°, 0.1°, 1.2°, 1.2°, and 0.1° respectively.
 
 Reference: [African Astronomical Society (AfAS).](https://www.africanastronomicalsociety.org/ "AfAS")
 
