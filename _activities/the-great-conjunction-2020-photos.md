@@ -28,13 +28,13 @@ The majority of the Mauritian public participated during the rare spectacular �
 
 ![](/uploads/2022/02/09/dec-21-2020_gc_final_poster_700px.png)
 
+<p style=" font-size: 80%;font-family: Verdana, Arial,sans-serif; text-align: center; ">Poster Credit: Arvind Ramessur</p>
+
 ### **National Photos (NOC Mauritius)**
 
 The Great Conjunction event photo for NOC Mauritius was captured by Arvind Ramessur from Long Mountain using a DLSR camera (EF 75 - 300 mm Zoom lens) at 21h15.
 
 ![](/uploads/2022/02/09/21-dec-2020_gc_during_poster_700px.png)
-
-<p style=" font-size: 80%;font-family: Verdana, Arial,sans-serif; text-align: center; ">Poster Credit: Arvind Ramessur</p>
 
 [Dr. Henry Throop](https://science.nasa.gov/researchers/sara/program-officers-list/henry-throop "Henry") (Program Officer at [NASA](https://www.nasa.gov/ "NASA") Headquarters) provided his expert opinion on our photo captured from Mauritius. After running some calculations for the satellites, it was found that the Jovian moon, Io, was hidden (either in front of or behind) Jupiter. What we saw is Ganymede and Callisto on top; Europa and the Hipparcos star (#HIP99134) on the bottom. We could not see Titan, which should be around the ’S’ of Saturn, from our DSLR camera.
 
