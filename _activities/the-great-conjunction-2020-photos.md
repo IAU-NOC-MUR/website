@@ -42,7 +42,7 @@ The Great Conjunction event photo for NOC Mauritius was captured by Arvind Rames
 
 <p style=" font-size: 90%;font-family: Verdana, Arial,sans-serif; text-align: center; ">Poster Credit: Arvind Ramessur</p>
 
-<p style=" font-size: 90%;font-family: Arial,sans-serif; text-align: center;">Image Credits: Dr. Henry Throop</p>
+<p style=" font-size: 90%;font-family: Arial,sans-serif; text-align: center;">Image Credit: Dr. Henry Throop</p>
 
 ## **International Photos**
 
