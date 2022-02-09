@@ -28,7 +28,7 @@ The majority of Mauritians participated in the rare spectacular “_Christmas St
 
 ![](/uploads/2022/02/09/dec-21-2020_gc_final_poster_700px.png)
 
-<p style=" font-size: 80%;font-family: Verdana, Arial,sans-serif; text-align: center; ">Poster Credit: Arvind Ramessur</p>
+<p style=" font-size: 90%;font-family: Verdana, Arial,sans-serif; text-align: center; ">Poster Credit: Arvind Ramessur</p>
 
 ## **National Photos (NOC Mauritius)**
 
@@ -40,7 +40,7 @@ The Great Conjunction event photo for NOC Mauritius was captured by Arvind Rames
 
 ![](/uploads/2022/02/09/gc2020_henry_700px.png)
 
-<p style=" font-size: 80%;font-family: Arial,sans-serif; text-align: center;"> Image Credits: _Dr. Henry Throop; Analysis of the photo captured by Arvind Ramessur_ </p>
+<p style=" font-size: 90%;font-family: Arial,sans-serif; text-align: center;">Image Credits: _Dr. Henry Throop_</p>
 
 ## **International Photos**
 
