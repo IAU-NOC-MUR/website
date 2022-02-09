@@ -19,13 +19,13 @@ The majority of the Mauritian public participated during the rare spectacular â€
 
 **The recipients are namely:**
 
-Yashweena Takoory (Coromandel)
-Pooja Boodhoo (Petit Bel AiR)
-Ishfaaq Peerally (Flic-en-Flac)
-Astrid Thelemaque (Flic-en-FlaC)
-Akish Mangaram (Tamarin)
-Adeev Kaharee (Goodlands)
-Fariss Baboo (Terre Rouge)
+* Yashweena Takoory (Coromandel)
+* Pooja Boodhoo (Petit Bel AiR) 
+* Ishfaaq Peerally (Flic-en-Flac) 
+* Astrid Thelemaque (Flic-en-Flac) 
+* Akish Mangaram (Tamarin) 
+* Adeev Kaharee (Goodlands) 
+* Fariss Baboo (Terre Rouge)
 
 ![](/uploads/2022/02/09/dec-21-2020_gc_final_poster_700px.png)
 
