@@ -42,3 +42,5 @@ Each night, the 2 planets will appear closer low in the southwest in the hour af
 The conjunction of Jupiter-Saturn with a minimum separation of 0.2 degrees can be seen only in 2080 (60 years from now), 2417, and 2477. This similar type of conjunction with separation of 0.1 degrees will be noticeable on 7531 AD and before 1226 AD, it was visible in 6856 BC. So, do not forget to witness this rare astronomical feast in the southwest direction and share your photos with us.
 
 Wishing you clear skies and wide eyes!
+
+![](/uploads/2022/02/09/dec-21-2020-gc_before_poster_700px.png)
