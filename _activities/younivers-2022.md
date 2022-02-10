@@ -13,7 +13,7 @@ banner_image: "/uploads/2022/02/10/younivers_poster_cover1.png"
 slug: ''
 
 ---
-## **Younivers - le challenge video Astro-Ados 2022 arrive à Maurice**
+# **Younivers - le challenge video Astro-Ados 2022 arrive à Maurice**
 
 **_La première édition Mauricienne de Younivers - le challenge vidéo Astro-Ados est lancée !_**
 
@@ -23,13 +23,13 @@ Le challenge est ouvert à **tous les jeunes de 11 à 18 ans**, et vous pouvez m
 
 Mais ça ne s’arrête pas là! **En 2022, le challenge Astro-Ados a décidé de devenir international** après des débuts en France en 2020 suite à la création de la chaîne youtube [Younivers - La Chaine des Astro-Ados](https://www.youtube.com/channel/UC0hBwhCzauxWlRzQ3iD99HQ) par la [Société Astronomique de France](https://saf-astronomie.fr/younivers/) (SAF) et parrainée par [Sébastien Carassou](https://www.sebastiencarassou.com/), jeune astrophysicien passionné de vulgarisation scientifique et qui a décidé d’en faire son métier. En plus de l'Ile Maurice, une édition nationale est aussi organisée en France, au Sénégal, en Belgique, en Tunisie, au Liban et à Madagascar. Donc **la seconde étape de ce Challenge 2022**: les gagnants nationaux seront envoyés à **la cérémonie de clôture du Challenge qui sera organisée fin 2022 dans l’un des pays participants**, un jury visionnera les 7 vidéos gagnantes de chaque pays et décernera un prix à leur vidéo favorite!
 
-### **_Alors, comment ça s’organise ?_**
+## **_Alors, comment ça s’organise ?_**
 
 **Qui ?** Tous les jeunes de 11 à 18 ans !
 
 **Quoi ?** Une vidéo de 3 minutes en français qui répond à **_une question commençant par ‘Comment’_** sur un sujet d’Astronomie/Astrophysique de votre choix !
 
-### **Quand?**
+## **Quand?**
 
 (1) Inscriptions obligatoires **avant le 26/02/2022** en utilisant ce formulaire : [https://forms.gle/ggZSGhcnGtFDCrBo8](https://forms.gle/ggZSGhcnGtFDCrBo8 "https://forms.gle/ggZSGhcnGtFDCrBo8")
 
@@ -45,4 +45,4 @@ N’oubliez pas de le remplir avec un adulte !
 
 Le challenge vidéo Astro-Ados c’est tout d’abord une opportunité pour tous les jeunes passionnés d’Astronomie et d’Astrophysique de s’amuser en partageant leur passion avec d’autres jeunes ! **Si vous avez des questions, n’hésitez pas à contacter Mathilde à l’adresse mail :** [**challengeastroados.mru@gmail.com**](mailto:challengeastroados.mru@gmail.com)
 
-Ce challenge est organisé par l’[IAU-NOC Mauritius](https://iau-noc-mur.netlify.app/). 
+Ce challenge est organisé par l’[IAU-NOC Mauritius](https://iau-noc-mur.netlify.app/).
