@@ -24,7 +24,7 @@ Les noms présélectionnés seront annoncés en Décembre 2019. Un comité a ét
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdKE_TB5dbS60Sgi6NDkpr_GjA6MmfRRp6Y2IZRWGE9oIovGQ/viewform" target="_blank" class="pure-button button-success button-xlarge" title="Soumettre votre proposition"> Soumettre votre proposition <i class="fa fa-chevron-right"></i>
 
-**Le Savez vous?**
+**Le Savez Vous?**
 
 L’Abbé Nicolas Louis de Lacaille était un astronome qui a eu le grand honneur de nommer 15 des 88 constellations du ciel. Entre 1750 et 1754, il a étudié les étoiles de l'hémisphère sud du cap de Bonne-Espérance, à l'extrême pointe de l'Afrique. Au cours de ses années là-bas, il a observé plus de 10 000 étoiles en utilisan seulement son réfracteur de 0.5 pouce. Fornax a été nommé comme Chemical Furnace en hommage d'Antoine Lavoisier, qui a été guillotiné pendant la Révolution française en 1794.
 
