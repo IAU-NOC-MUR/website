@@ -45,6 +45,8 @@ N’oubliez pas de le remplir avec un adulte !
 
 Le challenge vidéo Astro-Ados c’est tout d’abord une opportunité pour tous les jeunes passionnés d’Astronomie et d’Astrophysique de s’amuser en partageant leur passion avec d’autres jeunes ! **Si vous avez des questions, n’hésitez pas à contacter Mathilde à l’adresse mail :** [**challengeastroados.mru@gmail.com**](mailto:challengeastroados.mru@gmail.com)
 
-Ce challenge est organisé par l’[IAU-NOC Mauritius](https://iau-noc-mur.netlify.app/).
-
 ![](/uploads/2022/02/10/younivers_poster_3_700px.png)
+
+**_Ilustration_**: Arvind Ramessur pour l’IAU NOC
+
+Ce challenge est organisé par l’[IAU-NOC Mauritius](https://iau-noc-mur.netlify.app/).
