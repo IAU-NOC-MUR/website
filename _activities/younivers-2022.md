@@ -15,7 +15,7 @@ slug: ''
 ---
 # **Younivers - le challenge video Astro-Ados 2022 arrive à Maurice**
 
-**_La première édition Mauricienne de Younivers - le challenge vidéo Astro-Ados est lancée !_**
+### **_La première édition Mauricienne de Younivers - le challenge vidéo Astro-Ados est lancée !_**
 
 Le principe est simple: faire **une petite vidéo de 3 minutes max** qui répond à une question en relation avec **l’Astronomie et l’Astrophysique** qui commence par ‘_Comment_’. Pour se faire, chaque participant/e sera parrainé/e avec un/e spécialiste du domaine, un/e astrophysicien/ne ou spécialiste de vulgarisation scientifique, qui vous accompagnera tout au long de la création de votre vidéo, répondra à vos questions et vous aidera à délivrer votre message. Au début du challenge, on vous accompagnera aussi avec des tutos live pour vous expliquer comment monter vos vidéos, écrire un script, créer des animations etc!
 
