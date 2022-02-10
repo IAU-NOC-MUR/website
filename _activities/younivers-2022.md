@@ -9,7 +9,7 @@ tags:
 status: Ongoing
 title: 'Younivers 2022 '
 sub_heading: 'Le Challenge Video Astro-Ados '
-banner_image: "/uploads/2022/02/10/younivers_poster_cover1.png"
+banner_image: ''
 slug: ''
 
 ---
