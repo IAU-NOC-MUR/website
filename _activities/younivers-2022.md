@@ -31,7 +31,7 @@ Mais ça ne s’arrête pas là! **En 2022, le challenge Astro-Ados a décidé d
 
 ## **Quand?**
 
-(1) Inscriptions obligatoires **avant le 26/02/2022** en utilisant ce formulaire : [https://forms.gle/ggZSGhcnGtFDCrBo8](https://docs.google.com/forms/d/e/1FAIpQLSdGa8uLXc_q0u96r5VgDBN7ejwG3YnE58XjcS6fLZ-buM9apg/viewform "Formulaire")
+(1) Inscriptions obligatoires **avant le 26/02/2022** en utilisant ce formulaire : [https://forms.gle/ggZSGhcnGtFDCrBo8](https://docs.google.com/forms/d/e/1FAIpQLSdGa8uLXc_q0u96r5VgDBN7ejwG3YnE58XjcS6fLZ-buM9apg/viewform "cliquez ici pour remplir le formulaire")
 
 N’oubliez pas de le remplir avec un adulte !
 
