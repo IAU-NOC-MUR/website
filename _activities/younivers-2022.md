@@ -7,8 +7,8 @@ tags:
 - " #iau"
 - " #astro_ados"
 status: Ongoing
-title: 'Younivers 2022 '
-sub_heading: 'Le Challenge Video Astro-Ados '
+title: 'Younivers - Le Challenge Video Astro-Ados 2022 '
+sub_heading: La première édition Mauricienne de Younivers
 banner_image: "/uploads/2022/02/10/younivers_poster_1_cover.png"
 slug: ''
 
