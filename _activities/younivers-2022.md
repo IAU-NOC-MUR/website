@@ -47,6 +47,6 @@ Le challenge vidéo Astro-Ados c’est tout d’abord une opportunité pour tous
 
 ![](/uploads/2022/02/10/younivers_poster_3_700px.png)
 
-**_Ilustration_**: Arvind Ramessur pour l’IAU NOC
+_Ilustration_: Arvind Ramessur pour l’IAU NOC
 
 Ce challenge est organisé par l’[IAU-NOC Mauritius](https://iau-noc-mur.netlify.app/).
