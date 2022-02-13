@@ -6,6 +6,7 @@ heading: 'Younivers 2022'
 partners:
 - "/uploads/2019/05/22/oao_logo.png"
 - "/uploads/2019/05/22/iau100-black-rgb.jpg"
+- "/uploads/2022/02/10/naoj_logo_edited.png"
 services: []
 sub_heading: "Le Challenge Video Astro-Ados (La première édition Mauricienne de Younivers)"
 textline: Official website from the International Astronomical Union - Office for
