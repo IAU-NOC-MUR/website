@@ -1,20 +1,19 @@
 ---
 title: Home
-banner_image: "/uploads/2019/05/18/nasa-53884-unsplash.jpg"
+banner_image: "/uploads/2022/02/06/noc_cover_web01.png"
 layout: landing-page
-heading: 'Latest Event : NameExoWorlds'
+heading: 'Younivers 2022'
 partners:
 - "/uploads/2019/05/22/oao_logo.png"
 - "/uploads/2019/05/22/iau100-black-rgb.jpg"
 services: []
-sub_heading: The NameExoWorlds contest provided the first opportunity for the public
-  to name exoplanets, and their stars.
+sub_heading: "Le Challenge Video Astro-Ados (La première édition Mauricienne de Younivers)"
 textline: Official website from the International Astronomical Union - Office for
   Astronomy Outreach (IAU-OAO) dedicated to the National Outreach Committee (NOC)
   in Mauritius.
 hero_button:
-  text: View Results
-  href: http://www.nameexoworlds.iau.org/mauritius
+  text: View Details
+  href: https://iau-noc-mur.netlify.app/activities/younivers-2022/
 show_news: true
 show_staff: false
 menu:
