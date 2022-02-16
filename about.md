@@ -10,11 +10,8 @@ textline: The IAU-NOC Mauritius committee has the responsibility to implement pr
   with national communities of amateur astronomers with the IAU.
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
-show_news: true
-partners:
-- "/uploads/2019/05/22/oao_logo.png"
-- "/uploads/2022/02/16/iau_logo.png"
-- "/uploads/2022/02/10/naoj_logo_edited.png"
+show_news: false
+partners: []
 menu:
   footer:
     identifier: _about
