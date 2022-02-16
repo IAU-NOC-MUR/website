@@ -80,4 +80,3 @@ fields:
   default: home
 pages:
 - index.md
-- test.md
