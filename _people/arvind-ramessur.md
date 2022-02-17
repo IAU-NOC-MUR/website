@@ -12,7 +12,7 @@ linkedin: ''
 ---
 Arvind Ramessur holds a Master’s degree (by research) in Astronomy from the University of South Africa cum [_Hartebeesthoek Radio Astronomy Observatory_](http://www.hartrao.ac.za/)_._
 
-Arvind has specialised in using the Very Long Baseline Interferometry (VLBI) Technique to shed light on the geometrical nature and evolution of extragalactic jets at different radio frequencies and epochs. The VLBI technique is a powerful tool used by Radio Astronomers to observe the nucleus of distant bright galaxies in unprecedented detail and to create images of regions small enough to change structure on human time scales. The reason why Arvind ventured into Astronomy is that he believes that it is a field that can give us a different perspective on the way we see the world and reveal unexpected phenomena in the universe that can enthrall and challenge us.
+He is a recipient of the prestigious _South African Square Kilometer Array (SKA) Scholarship Award 2013_ for his postgraduate research. Arvind has specialised in the _Very Long Baseline Interferometry (VLBI)_ Technique to shed light on the geometrical nature and evolution of extragalactic jets at different radio frequencies and epochs. The VLBI technique is a powerful tool used by Radio Astronomers to observe the nucleus of distant bright galaxies in unprecedented detail and to create images of regions small enough to change structure on human time scales. The reason why Arvind ventured into Astronomy is that he believes that it is a field that can give us a different perspective on the way we see the world and reveal unexpected phenomena in the universe that can enthrall and challenge us.
 
 > ### **”_Science isn’t finished until it’s communicated_ ”**
 >
