@@ -3,18 +3,16 @@ role:
 - staff
 layout: person
 order: 2
-title: Arvind Ramessur
-sub_heading: 'IAU NOC Mauritius (Deputy) '
+title: 'Arvind Ramessur '
+sub_heading: IAU NOC Mauritius (Deputy) - Astronomer & Science Communicator
 thumbnail: "/uploads/2021/02/17/iau-noc_profile_photo-2.png"
 email: arvind.iau.mru@gmail.com
 linkedin: ''
 
 ---
-Arvind Ramessur holds a Bachelor’s degree in Physics from the University of Mauritius and a Master’s degree (research) in Astronomy from the University of South Africa cum [_Hartebeesthoek Radio Astronomy Observatory_](http://www.hartrao.ac.za/)_._
+Arvind Ramessur holds a Master’s degree (by research) in Astronomy from the University of South Africa cum [_Hartebeesthoek Radio Astronomy Observatory_](http://www.hartrao.ac.za/)_._
 
-His Honours degree was focused on investigating the readiness (in terms of antenna dish technology and expertise available) for Mauritius - one of the eight partner countries of South Africa - to host the [_Square Kilometre Array_](https://www.sarao.ac.za/) radio telescope.
-
-For his research Master’s degree project, Arvind has specialised in using the Very Long Baseline Interferometry (VLBI) Technique to shed light on the geometrical nature and evolution of extragalactic jets at different radio frequencies and epochs. The VLBI technique is a powerful tool used by Radio Astronomers to observe the nucleus of distant bright galaxies in unprecedented detail and to create images of regions small enough to change structure on human time scales. The reason why Arvind ventured into Astronomy is that he believes that it is a field that can give us a different perspective on the way we see the world and reveal unexpected phenomena in the universe that can enthrall and challenge us.
+Arvind has specialised in using the Very Long Baseline Interferometry (VLBI) Technique to shed light on the geometrical nature and evolution of extragalactic jets at different radio frequencies and epochs. The VLBI technique is a powerful tool used by Radio Astronomers to observe the nucleus of distant bright galaxies in unprecedented detail and to create images of regions small enough to change structure on human time scales. The reason why Arvind ventured into Astronomy is that he believes that it is a field that can give us a different perspective on the way we see the world and reveal unexpected phenomena in the universe that can enthrall and challenge us.
 
 > ### **”_Science isn’t finished until it’s communicated_ ”**
 >
