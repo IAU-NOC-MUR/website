@@ -4,7 +4,7 @@ tags: []
 status: Ongoing
 title: Younivers 2023
 sub_heading: Le Challenge Video Astro-Ados (La deuxième édition Mauricienne de Younivers)
-banner_image: ''
+banner_image: "/uploads/2023/03/10/younivers_poster_1_cover2023.png"
 slug: ''
 
 ---
