@@ -49,5 +49,3 @@ _Le nombre de places est limitée à 35 participants, donc dépêchez-vous!_
 Le challenge vidéo Astro-Ados c’est tout d’abord une opportunité pour tous les jeunes passionnés d’Astronomie et d’Astrophysique de s’amuser en partageant leur passion avec d’autres jeunes ! **Si vous avez des questions, n’hésitez pas à contacter Mathilde à l’adresse mail :** [**challengeastroados.mru@gmail.com **](mailto:challengeastroados.mru@gmail.com).
 
 Ce challenge est organisé par l’[IAU-NOC Mauritius](https://iau-noc-mur.netlify.app/).
-
-![](/uploads/2023/03/10/younivers_poster_3.png)
