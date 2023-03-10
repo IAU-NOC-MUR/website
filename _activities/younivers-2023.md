@@ -1,6 +1,10 @@
 ---
 date: 2023-03-10 15:19:27 +0000
-tags: []
+tags:
+- "#younivers2023"
+- " #nocmaurice"
+- " #saf"
+- " #astroados"
 status: Ongoing
 title: Younivers 2023
 sub_heading: Le Challenge Video Astro-Ados (La deuxième édition Mauricienne de Younivers)
